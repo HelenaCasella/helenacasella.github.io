@@ -1,6 +1,6 @@
 <!-- ![](https://user-images.githubusercontent.com/38376671/38975032-88cf5a5a-43ac-11e8-8798-7dfd50819762.jpg) -->
 
-<p class="menu" align="right">
+<p class="menu" align="left">
   <a href="Bio.md" >Bio</a>
   <a href="Motivation.md">Motivation</a>
   <a href="Recordings.md">Recordings</a>
