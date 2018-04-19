@@ -14,7 +14,7 @@
 
 ### A text about Tomas and the great musician he is goes here
 
-<p float="left">
+<p float="center">
   <iframe width="320" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <iframe width="320" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <iframe width="320" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
