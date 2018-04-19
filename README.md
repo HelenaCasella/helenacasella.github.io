@@ -1,2 +1,2 @@
-![](/UNADJUSTEDNORAW_thumb_13e.jpg)
+![](UNADJUSTEDNORAW_thumb_13e.jpg)
 # Tomas Casella - Portfolio
