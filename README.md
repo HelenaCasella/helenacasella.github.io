@@ -34,13 +34,13 @@
   <tr>
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Time Moves Slow Cover - by BadBadNotGood</h1>
-        Een enorme inspiratie bron voor mijn muziek. BBNG bereikt een melancholische en herkenbare sfeer waarin je gedachten worden             gestimuleerd. En een troostende stem van Samuel T. Herring maakt de sfeer en de emotie van het lied compleet.
-        <strong> Muzikanten: </strong><br>
-            Tomas Casella:          zang en gitaar<br>
-            Arthur de Vriendt:      drums<br>
-            Faust de Vogelaere:     bassgitaar<br>
-            Silas Siddiki:          keys<br>
-            Ischa Demet:            saxofoon
+        <em>Een enorme inspiratie bron voor mijn muziek. BBNG bereikt een melancholische en herkenbare sfeer waarin je gedachten worden             gestimuleerd. En een troostende stem van Samuel T. Herring maakt de sfeer en de emotie van het lied compleet.</em><br>
+        <strong> Muzikanten:</strong><br>
+        <strong>Tomas Casella:</strong>          zang en gitaar<br>
+        <strong>Arthur de Vriendt:</strong>      drums<br>
+        <strong>Faust de Vogelaere:</strong>     bassgitaar<br>
+        <strong>Silas Siddiki:</strong>          keys<br>
+        <strong>Ischa Demet:</strong>            saxofoon
     </td>
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Eye of the Tiger arrangement</h1>
@@ -52,10 +52,10 @@
       <h1 style="font-size: 1.5em; font-weigh: bold">Beams of light</h1>
       <em>Dit zeer lange nummer (mijn excuses) heb ik geschreven om te dienen als mijn GIP opdracht. Het beschrijft alle verschillende perspectieven en gevoelens van een vorige relatie a.d.h.v. de tekst maar vooral de muziek. Elke passage heeft zijn eigen plaats en tijd.</em><br>
       <strong>Muzikanten:</strong><br>
-      <strong>Tomas Casella:</strong>          zang en gitaar
-      <strong>Arthur de Vriendt:</strong>      drums
-      <strong>Faust de Vogelaere:</strong>     bassgitaar
-      <strong>Silas Siddiki:</strong>          keys
+      <strong>Tomas Casella:</strong>          zang en gitaar<br>
+      <strong>Arthur de Vriendt:</strong>      drums<br>
+      <strong>Faust de Vogelaere:</strong>     bassgitaar<br>
+      <strong>Silas Siddiki:</strong>          keys<br>
       <strong>Ischa Demet:</strong>            saxofoon
      </td>
   </tr>
