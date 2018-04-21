@@ -92,7 +92,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 <table style="width:100%">
   <tr>
     <th>
-      <<iframe width="560" height="315" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
     <th><em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
 <strong>Tomas Casella:</strong>          zang en gitaar
@@ -108,16 +108,42 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 [Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
 
 ## Tomas and Helena Casella
-Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.
+<table style="width:100%">
+  <tr>
+    <th>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </th>
+    <th><em>Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.</em>
+    </th> 
+  </tr>
+ </table>
+
 
 ## Eye Con
-Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014
+<table style="width:100%">
+  <tr>
+    <th>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </th>
+    <th><em>Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014</em>
+    </th> 
+  </tr>
+ </table>
 [Facebook](https://www.facebook.com/officialeyeconductions/)
 [Mixtape](https://soundcloud.com/eye_con/sets/casella-truth-can-differ)
 
 ## Smash
-Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 middelbare schooljongens de pannen van het dak.  
-2010-2011
+<table style="width:100%">
+  <tr>
+    <th>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </th>
+    <th><em>Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 middelbare schooljongens de pannen van het dak.  
+2010-2011</em>
+    </th> 
+  </tr>
+ </table>
+
 [Facebook](https://www.facebook.com/Smash-127144867334818/)
 [Youtube](http://www.youtube.com/user/Smash666ful)
 
