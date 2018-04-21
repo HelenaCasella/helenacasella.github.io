@@ -2,14 +2,14 @@
 
 <p class="menu">
   <span style="float:left;">
-    <a href="#Projects" style="font-size: 2em;font-weight: bold;">Portfolio</a>
+    <a href="#Projecten" style="font-size: 2em;font-weight: bold;">Portfolio</a>
   </span>
   <span style="float:right;">
-    <a href="/README.md/#Recordings">Recordings - </a>
+    <a href="#Recordings">Recordings - </a>
     <a href="#Bio" >Bio - </a>
-    <a href="README.md/#Motivatie">Motivation - </a>
-    <a href="/README.md/#Projecten">Projects - </a>
-    <a href="/README.md/#Contact">Contact</a>
+    <a href="#Motivatie">Motivatie - </a>
+    <a href="#Projecten">Projecten - </a>
+    <a href="#Contact">Contact</a>
   </span>
 </p>
 <p>
@@ -21,7 +21,7 @@
 
 
 
-# Recordings
+<h1 id="Recordings">Recordings</h1>
 
 <table style="width:100%">
   <tr>
@@ -66,7 +66,7 @@ __Recorded at:__ SAE Oxford institute
 __Mix:__ Benjamin Vanlangenhove aka Sense-A
  
 
-<h1 id="Bio">Bio</hi>
+<h1 id="Bio">Bio</h1>
 
 Een 18 jarige kunsthumaniora student van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het Muda kunstencentrum te Evergem (Gent) waar ik de opleiding jazzgitaar volg van Eric Melaerts gecombineerd met zang van Jonas Cole. Omdat ik mijn muzikale academische opleiding ongetwijfeld wil voorzetten ben ik een onderzoek gestart om de best passende conservatoriums a.d.h.v. de docenten, school filosofie en locatie te vinden waar na veel    aanradingen en research het Conservatorium van Amsterdam hoog in mijn achting is gestegen. Ik bedank jullie al op voorhand om mijn portfolio te beoordelen en hoop dat ik een deel kan uitmaken van de school in de richting pop zang.
 
@@ -79,14 +79,14 @@ Een verklaring voor mijn muzikale interesse is waarschijnlijk mijn familie die v
 
 Momenteel ben ik bezig met mijn eigen project “Lucky Green Camel”  waar we mijn songs en ideeën uit hebben gewerkt tot een kleine EP die we nu aan het opnemen zijn in Oxford SAE school. Een van mijn ingezonden nummers maakt hier deel van uit. Ook plannen mijn zus en ik om onze akoestische set in de zomer te kunnen vertonen. Natuurlijk ligt mijn focus nu op mijn hogere studies. 
 
-# Motivatie
+<h1 id="Motivatie">Motivatie</h1>
 
 De reden waarom ik zang kies als hogere opleiding is omdat ik mijn stem zo veel mogelijk wil verbeteren om later een carrière als singer-songwriter voort te zetten. Voor dit doel heb ik tot nu toe gitaar als richting gekozen, maar als het er op neer komt is zang mijn hoofdinstrument en passie.
 
 Ik kan zonder twijfel zeggen dat muziek mijn roeping is. Ik leef voor het gevoel wanneer een song af is of het brengen van een set waar je al maanden aan een stuk aan zit te werken. Naast mijn eigen zelfvertrouwen hebben mijn naasten me altijd aangemoedigt om er voor te gaan en zien ze zoals ik een toekomst voor mij als muzikant. Het enigste wat mij van deze verwachting houdt is het werk dat ik er in moet steken en dat ben ik meer dan bereid te doen. Mijn doorzettingsvermogen is eindeloos en ik zal zweten en zwoegen om mijn doel te bereiken.
 Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan verdiepen in mijn muzikale carrière met behulp van jullie school.
 
-# Projecten
+<h1 id="Projecten">Projecten</h1>
 
 ## Lucky Green Camel
 <table style="width:100%">
@@ -157,7 +157,8 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 [Youtube](http://www.youtube.com/user/Smash666ful)
 
 
-# Contact
+<h1 id="Contact">Contact</h1>
+
 
 __Bookings:__  +32 (0)497313201  
 tomatolol10@gmail.com
