@@ -1,7 +1,7 @@
 <!-- ![](https://user-images.githubusercontent.com/38376671/38975032-88cf5a5a-43ac-11e8-8798-7dfd50819762.jpg) -->
 
 <p class="menu" align="left">
-  <a href=#Projects style="font-size: 2em;">Portfolio</a>
+  <a href="#Projects" style="font-size: 2em;">Portfolio</a>
   <a href="#Recordings">                Recordings</a>
   <a href="#Bio" >  Bio</a>
   <a href="#Motivation">  Motivation</a>
