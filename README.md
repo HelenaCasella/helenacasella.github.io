@@ -7,8 +7,7 @@
   <a href="Projects.md">Projects</a>
   <a href="Contact.md">Contact</a>
 </p>
-<p>
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/38376671/39085790-5bdc0128-4588-11e8-9ec8-370667491890.jpg">
+<p>https://user-images.githubusercontent.com/38376671/39085928-94c0995c-458a-11e8-9edc-b0f30b5f7ff2.png">
 </p>
 # Tomas Casella - Portfolio
 
