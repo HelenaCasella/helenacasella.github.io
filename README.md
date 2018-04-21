@@ -23,11 +23,43 @@
 
 # Recordings
 
+<table style="width:100%">
+  <tr>
+    <th><iframe width="320" height="181" src="https://www.youtube.com/embed/9JZg_rZwPUk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></th>
+    <th><iframe width="320" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></th> 
+    <th><iframe width="320" height="181" src="https://www.youtube.com/embed/tFYYNFDnl9A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></th>
+  </tr>
+  <tr>
+    <td>Time Moves Slow cover by BadBadNotGood
+Een enorme inspiratie bron voor mijn muziek. BBNG bereikt een melancholische en herkenbare sfeer waarin je gedachten worden gestimuleerd. En een troostende stem van Samuel T. Herring maakt de sfeer en de emotie van het lied compleet.
+muzikanten: Tomas Casella:          zang en gitaar
+            Arthur de Vriendt:      drums
+            Faust de Vogelaere:     bassgitaar
+            Silas Siddiki:          keys
+            Ischa Demet:            saxofoon</td>
+    <td>Eye of the Tiger arrangement
+Iets waar ik me graag mee bezig hou is het maken kleine arrangementen voor al populaire nummers. Dit is een perfect voorbeeld daarvan. Een totaal andere sfeer.</td> 
+    <td>Beams of light
+Dit zeer lange nummer (mijn excuses) heb ik geschreven om te dienen als mijn GIP opdracht. Het beschrijft alle verschillende perspectieven en gevoelens van een vorige relatie a.d.h.v. de tekst maar vooral de muziek. Elke passage heeft zijn eigen plaats en tijd.
+muzikanten: Tomas Casella:          zang en gitaar
+            Arthur de Vriendt:      drums
+            Faust de Vogelaere:     bassgitaar
+            Silas Siddiki:          keys
+            Ischa Demet:            saxofoon
+            
+ Beams of light - recorded at SAE Oxford institute
+ Mix: Benjamin Vanlangenhove aka Sense-A</td>
+  </tr>
+</table>
+
+<!--
 <p float="center">
   <iframe width="320" height="181" src="https://www.youtube.com/embed/9JZg_rZwPUk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <iframe width="320" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <iframe width="320" height="181" src="https://www.youtube.com/embed/tFYYNFDnl9A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  </p>
+
+-->
  
 
 Time Moves Slow cover by BadBadNotGood
@@ -54,7 +86,6 @@ muzikanten: Tomas Casella:          zang en gitaar
  Mix: Benjamin Vanlangenhove aka Sense-A
  
  # Bio
- Mijn naam is Tomas Casella Dendooven.                 
 
 Een 18 jarige kunsthumaniora student van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het Muda kunstencentrum te Evergem (Gent) waar ik de opleiding jazzgitaar volg van Eric Melaerts gecombineerd met zang van Jonas Cole. Omdat ik mijn muzikale academische opleiding ongetwijfeld wil voorzetten ben ik een onderzoek gestart om de best passende conservatoriums a.d.h.v. de docenten, school filosofie en locatie te vinden waar na veel    aanradingen en research het Conservatorium van Amsterdam hoog in mijn achting is gestegen. Ik bedank jullie al op voorhand om mijn portfolio te beoordelen en hoop dat ik een deel kan uitmaken van de school in de richting pop zang.
 
