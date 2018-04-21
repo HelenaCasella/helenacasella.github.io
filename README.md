@@ -67,7 +67,7 @@ Mix: Benjamin Vanlangenhove aka Sense-A</td>
  </p>-->
  
 
-# Bio
+# Bio Refreshing test
 
 Een 18 jarige kunsthumaniora student van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het Muda kunstencentrum te Evergem (Gent) waar ik de opleiding jazzgitaar volg van Eric Melaerts gecombineerd met zang van Jonas Cole. Omdat ik mijn muzikale academische opleiding ongetwijfeld wil voorzetten ben ik een onderzoek gestart om de best passende conservatoriums a.d.h.v. de docenten, school filosofie en locatie te vinden waar na veel    aanradingen en research het Conservatorium van Amsterdam hoog in mijn achting is gestegen. Ik bedank jullie al op voorhand om mijn portfolio te beoordelen en hoop dat ik een deel kan uitmaken van de school in de richting pop zang.
 
