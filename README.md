@@ -5,18 +5,18 @@
     <a href="#Projects" style="font-size: 2em;font-weight: bold;">Portfolio</a>
   </span>
   <span style="float:right;">
-    <a href="#Recordings">Recordings - </a>
-    <a href="#Bio" >Bio - </a>
-    <a href="#Motivation">Motivation - </a>
-    <a href="#Projects">Projects - </a>
-    <a href="#Contact">Contact</a>
+    <a href="Recordings">Recordings - </a>
+    <a href="Bio" >Bio - </a>
+    <a href="Motivation">Motivation - </a>
+    <a href="Projects">Projects - </a>
+    <a href="Contact">Contact</a>
   </span>
 </p>
 <p>
   <img src="https://user-images.githubusercontent.com/38376671/39085928-94c0995c-458a-11e8-9edc-b0f30b5f7ff2.png" alt="Tomas Profile">
 </p>
 
-### Singer songwriter met braziliaanse roots in het startschot van zijn carrière. Met een hart bedolven in muziek is Tomas Casella een artiest die niet grijpt naar de populaire ritmes en clichés maar echter zijn eigen sound creëert en combineert met lyrische teksten vol woordspel en sterke betekenissen.
+### _Singer songwriter met braziliaanse roots in het startschot van zijn carrière. Met een hart bedolven in muziek is Tomas Casella een artiest die niet grijpt naar de populaire ritmes en clichés maar echter zijn eigen sound creëert en combineert met lyrische teksten vol woordspel en sterke betekenissen._
 
 
 
@@ -61,8 +61,9 @@
   </tr>
 </table>
 
-Beams of light - recorded at SAE Oxford institute
-Mix: Benjamin Vanlangenhove aka Sense-A
+## Beams of light
+__Recorded at:__ SAE Oxford institute
+__Mix:__ Benjamin Vanlangenhove aka Sense-A
  
 
 # Bio
@@ -87,39 +88,36 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 
 # Projecten 
 
-Smash
-Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 middelbare schooljongens de pannen van het dak.
-[Facebook](https://www.facebook.com/Smash-127144867334818/)
-[Youtube](http://www.youtube.com/user/Smash666ful)
+## Lucky Green Camel
+Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.
+__Muzikanten:__  
+__Tomas Casella:__          zang en gitaar
+__Arthur de Vriendt:__      drums
+__Faust de Vogelaere:__     bassgitaar
+__Silas Siddiki:__          keys
+__Ischa Demet:__            saxofoon
+            
+[Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/) [Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
 
-Eye Con
-Hip Hop Art Collective from Ghent, Belgium.
+## Tomas and Helena Casella
+Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.
 
-Conducting Art For The Mind
-Through Peace, Love and Unity
-Est. 2014
+## Eye Con
+Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014
 [Facebook](https://www.facebook.com/officialeyeconductions/)
 [Mixtape](https://soundcloud.com/eye_con/sets/casella-truth-can-differ)
 
-Tomas and Helena Casella
-Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.
-
-Lucky Green Camel
-Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.
-muzikanten: Tomas Casella:          zang en gitaar
-            Arthur de Vriendt:      drums
-            Faust de Vogelaere:     bassgitaar
-            Silas Siddiki:          keys
-            Ischa Demet:            saxofoon
-            
-[Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/)
-[Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
+## Smash
+Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 middelbare schooljongens de pannen van het dak.  
+2010-2011
+[Facebook](https://www.facebook.com/Smash-127144867334818/)
+[Youtube](http://www.youtube.com/user/Smash666ful)
 
 
 # Contact
 
-Bookings: 0497313201 
-          tomatolol10@gmail.com
+__Bookings:__ +32 (0)497313201
+tomatolol10@gmail.com
           
 [Youtube](https://www.youtube.com/channel/UCE5P7IqSueXwEbTCm_Th7fw?view_as=subscriber)
 
