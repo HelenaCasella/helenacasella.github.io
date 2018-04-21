@@ -79,6 +79,41 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 Smash
 Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 middelbare schooljongens de pannen van het dak.
 [Facebook](https://www.facebook.com/Smash-127144867334818/)
+[Youtube](http://www.youtube.com/user/Smash666ful)
+
+Eye Con
+Hip Hop Art Collective from Ghent, Belgium.
+
+Conducting Art For The Mind
+Through Peace, Love and Unity
+Est. 2014
+[Facebook](https://www.facebook.com/officialeyeconductions/)
+[Mixtape](https://soundcloud.com/eye_con/sets/casella-truth-can-differ)
+
+Tomas and Helena Casella
+Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.
+
+Lucky Green Camel
+Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.
+muzikanten: Tomas Casella:          zang en gitaar
+            Arthur de Vriendt:      drums
+            Faust de Vogelaere:     bassgitaar
+            Silas Siddiki:          keys
+            Ischa Demet:            saxofoon
+            
+[Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/)
+[Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
+
+
+# Contact
+
+Bookings: 0497313201 
+          tomatolol10@gmail.com
+          
+[Youtube](https://www.youtube.com/channel/UCE5P7IqSueXwEbTCm_Th7fw?view_as=subscriber)
+
+
+
 
 
 
