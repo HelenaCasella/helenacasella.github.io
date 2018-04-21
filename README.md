@@ -44,12 +44,14 @@
     </td>
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Eye of the Tiger arrangement</h1>
-      <em>Iets waar ik me graag mee bezig hou is het maken kleine arrangementen voor al populaire nummers. Dit is een perfect voorbeeld       daarvan. Een totaal andere sfeer.</em>
+      <em>Iets waar ik me graag mee bezig hou is het maken kleine arrangementen voor al populaire nummers. Dit is een perfect voorbeeld daarvan. Een totaal andere sfeer.</em><br.
+      <strong> Muzikanten: </strong><br>
+      <strong> Tomas Casella:</strong>          zang en gitaar<br>
     </td> 
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Beams of light</h1>
-      Dit zeer lange nummer (mijn excuses) heb ik geschreven om te dienen als mijn GIP opdracht. Het beschrijft alle verschillende             perspectieven en gevoelens van een vorige relatie a.d.h.v. de tekst maar vooral de muziek. Elke passage heeft zijn eigen plaats         en tijd.
-      <strong>Muzikanten:</strong>
+      <em>Dit zeer lange nummer (mijn excuses) heb ik geschreven om te dienen als mijn GIP opdracht. Het beschrijft alle verschillende perspectieven en gevoelens van een vorige relatie a.d.h.v. de tekst maar vooral de muziek. Elke passage heeft zijn eigen plaats en tijd.</em>
+      <strong>Muzikanten:</strong><br>
       <strong>Tomas Casella:</strong>          zang en gitaar
       <strong>Arthur de Vriendt:</strong>      drums
       <strong>Faust de Vogelaere:</strong>     bassgitaar
