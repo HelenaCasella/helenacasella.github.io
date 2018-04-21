@@ -86,7 +86,7 @@ De reden waarom ik zang kies als hogere opleiding is omdat ik mijn stem zo veel 
 Ik kan zonder twijfel zeggen dat muziek mijn roeping is. Ik leef voor het gevoel wanneer een song af is of het brengen van een set waar je al maanden aan een stuk aan zit te werken. Naast mijn eigen zelfvertrouwen hebben mijn naasten me altijd aangemoedigt om er voor te gaan en zien ze zoals ik een toekomst voor mij als muzikant. Het enigste wat mij van deze verwachting houdt is het werk dat ik er in moet steken en dat ben ik meer dan bereid te doen. Mijn doorzettingsvermogen is eindeloos en ik zal zweten en zwoegen om mijn doel te bereiken.
 Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan verdiepen in mijn muzikale carrière met behulp van jullie school.
 
-# Projecten<table style="width:100%">
+# Projecte
 
 ## Lucky Green Camel
 <table style="width:100%">
@@ -94,19 +94,18 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
     <th>
       <<iframe width="560" height="315" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
-    <th><em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br>
-  
-__Muzikanten:__  
-__Tomas Casella:__          zang en gitaar
-__Arthur de Vriendt:__      drums
-__Faust de Vogelaere:__     bassgitaar
-__Silas Siddiki:__          keys
-__Ischa Demet:__            saxofoon
+    <th><em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
+<strong>Tomas Casella:</strong>          zang en gitaar
+<strong>Arthur de Vriendt:</strong>      drums
+<strong>Faust de Vogelaere:</strong>    bassgitaar
+<strong>Silas Siddiki:</strong>         keys
+<strong>Ischa Demet:</strong>           saxofoon
     </th> 
   </tr>
  </table>
             
-[Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/) [Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
+[Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/)  
+[Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
 
 ## Tomas and Helena Casella
 Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.
@@ -125,7 +124,7 @@ Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen de
 
 # Contact
 
-__Bookings:__ +32 (0)497313201
+__Bookings:__  +32 (0)497313201
 tomatolol10@gmail.com
           
 [Youtube](https://www.youtube.com/channel/UCE5P7IqSueXwEbTCm_Th7fw?view_as=subscriber)
