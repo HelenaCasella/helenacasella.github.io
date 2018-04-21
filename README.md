@@ -6,10 +6,10 @@
   </span>
   <span style="float:right;">
     <a href="#Recordings">Recordings</a>
-    <a href="#Bio" >Bio</a>
-    <a href="#Motivation">Motivation</a>
-    <a href="#Projects">Projects</a>
-    <a href="#Contact">Contact</a>
+    <a href="#Bio" >&nbsp Bio</a>
+    <a href="#Motivation">&nbsp Motivation</a>
+    <a href="#Projects">&nbsp Projects</a>
+    <a href="#Contact">&nbsp Contact</a>
   </span>
 </p>
 <p>
