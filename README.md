@@ -1,12 +1,13 @@
 <!-- ![](https://user-images.githubusercontent.com/38376671/38975032-88cf5a5a-43ac-11e8-8798-7dfd50819762.jpg) -->
 
 <p class="menu" align="left">
-  <a href="#Projects" style="font-size: 2em;">Portfolio</a>
-  <a href="#Recordings">                Recordings</a>
-  <a href="#Bio" >  Bio</a>
-  <a href="#Motivation">  Motivation</a>
-  <a href="#Projects">  Projects</a>
-  <a href="#Contact">  Contact</a>
+  <a href="#Projects" style="font-size: 2em;font-weight: bold;">Portfolio</a>
+  <span style="float:right;">
+  <a href="#Recordings">Recordings</a>
+  <a href="#Bio" >"  Bio"</a>
+  <a href="#Motivation">"  Motivation"</a>
+  <a href="#Projects">"  Projects"</a>
+  <a href="#Contact">"  Contact"</a>
 </p>
 <p>
   <img src="https://user-images.githubusercontent.com/38376671/39085928-94c0995c-458a-11e8-9edc-b0f30b5f7ff2.png" alt="Tomas Profile">
