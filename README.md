@@ -5,11 +5,11 @@
     <a href="#Projects" style="font-size: 2em;font-weight: bold;">Portfolio</a>
   </span>
   <span style="float:right;">
-    <a href="#Recordings">Recordings - </a>
-    <a href="#Bio" >Bio - </a>
-    <a href="#Motivatie">Motivation - </a>
-    <a href="#Projecten">Projects - </a>
-    <a href="#Contact">Contact</a>
+    <a href="TomasCasella.github.io/#Recordings">Recordings - </a>
+    <a href="https://tomascasella.github.io/#Bio" >Bio - </a>
+    <a href="https://tomascasella.github.io/#Motivatie">Motivation - </a>
+    <a href="https://tomascasella.github.io/#Projecten">Projects - </a>
+    <a href="https://tomascasella.github.io/#Contact">Contact</a>
   </span>
 </p>
 <p>
