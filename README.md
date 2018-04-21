@@ -5,9 +5,9 @@
     <a href="#Projects" style="font-size: 2em;font-weight: bold;">Portfolio</a>
   </span>
   <span style="float:right;">
-    <a href="#Recordings">Recordings</a>
-    <a href="#Bio" >Bio</a>
-    <a href="#Motivation">Motivation</a>
+    <a href="#Recordings">Recordings - </a>
+    <a href="#Bio" >Bio - </a>
+    <a href="#Motivation">Motivation - </a>
     <a href="#Projects">Projects - </a>
     <a href="#Contact">Contact</a>
   </span>
@@ -21,9 +21,9 @@
 # Recordings
 
 <p float="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9JZg_rZwPUk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <iframe width="320" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  <iframe width="320" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  <iframe width="320" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tFYYNFDnl9A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  </p>
  
 
