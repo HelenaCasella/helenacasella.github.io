@@ -5,11 +5,11 @@
     <a href="#Projects" style="font-size: 2em;font-weight: bold;">Portfolio</a>
   </span>
   <span style="float:right;">
-    <a href="Recordings">Recordings - </a>
-    <a href="Bio" >Bio - </a>
-    <a href="Motivation">Motivation - </a>
-    <a href="Projects">Projects - </a>
-    <a href="Contact">Contact</a>
+    <a href="#Recordings">Recordings - </a>
+    <a href="#Bio" >Bio - </a>
+    <a href="#Motivatie">Motivation - </a>
+    <a href="#Projecten">Projects - </a>
+    <a href="#Contact">Contact</a>
   </span>
 </p>
 <p>
@@ -86,7 +86,7 @@ De reden waarom ik zang kies als hogere opleiding is omdat ik mijn stem zo veel 
 Ik kan zonder twijfel zeggen dat muziek mijn roeping is. Ik leef voor het gevoel wanneer een song af is of het brengen van een set waar je al maanden aan een stuk aan zit te werken. Naast mijn eigen zelfvertrouwen hebben mijn naasten me altijd aangemoedigt om er voor te gaan en zien ze zoals ik een toekomst voor mij als muzikant. Het enigste wat mij van deze verwachting houdt is het werk dat ik er in moet steken en dat ben ik meer dan bereid te doen. Mijn doorzettingsvermogen is eindeloos en ik zal zweten en zwoegen om mijn doel te bereiken.
 Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan verdiepen in mijn muzikale carrière met behulp van jullie school.
 
-# Projecte
+# Projecten
 
 ## Lucky Green Camel
 <table style="width:100%">
@@ -95,14 +95,14 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
       <iframe width="560" height="315" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
     <th><em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
-<strong>Tomas Casella:</strong>          zang en gitaar
-<strong>Arthur de Vriendt:</strong>      drums
-<strong>Faust de Vogelaere:</strong>    bassgitaar
-<strong>Silas Siddiki:</strong>         keys
+<strong>Tomas Casella:</strong>          zang en gitaar<br>
+<strong>Arthur de Vriendt:</strong>      drums<br>
+<strong>Faust de Vogelaere:</strong>    bassgitaar<br>
+<strong>Silas Siddiki:</strong>         keys<br>
 <strong>Ischa Demet:</strong>           saxofoon
     </th> 
   </tr>
- </table>
+</table>
             
 [Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/)  
 [Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
@@ -113,7 +113,9 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
     <th>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
-    <th><em>Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.</em>
+    <th><em>Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.</em><br>
+      <strong>Tomas Casella:</strong>          zang en gitaar<br>
+      <strong>Helena Casella:</strong>         zang en piano<br>
     </th> 
   </tr>
  </table>
@@ -130,9 +132,8 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
     </th> 
   </tr>
  </table>
-[Facebook](https://www.facebook.com/officialeyeconductions/)
+[Facebook](https://www.facebook.com/officialeyeconductions/)  
 [Soundcloud](https://soundcloud.com/eye_con)
-[My Mixtape](https://soundcloud.com/eye_con/sets/casella-truth-can-differ)
 
 ## Smash
 <table style="width:100%">
@@ -141,7 +142,13 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
       <iframe width="560" height="315" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
     <th><em>Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 middelbare schooljongens de pannen van het dak.  
-2010-2011</em>
+2010-2011</em><br>
+      <strong>Tomas Casella:</strong>          zang<br>
+      <strong>Kasper Van Ponsele:</strong>     gitaar<br>
+      <strong>Johannes Van Leuven:</strong>    gitaar<br>
+      <strong>Maurice Kallebaut:</strong>      drums<br>
+      <strong>Brikke ______:</strong>          keys<br>
+      <strong>Thomas ______:</strong>          bass<br>
     </th> 
   </tr>
  </table>
@@ -152,7 +159,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 
 # Contact
 
-__Bookings:__  +32 (0)497313201
+__Bookings:__  +32 (0)497313201  
 tomatolol10@gmail.com
           
 [Youtube](https://www.youtube.com/channel/UCE5P7IqSueXwEbTCm_Th7fw?view_as=subscriber)
