@@ -5,10 +5,10 @@
     <a href="#Projects" style="font-size: 2em;font-weight: bold;">Portfolio</a>
   </span>
   <span style="float:right;">
-    <a href="#Recordings">Recordings</a>&nbsp
-    <a href="#Bio" >Bio</a>&nbsp
-    <a href="#Motivation">Motivation</a>&nbsp
-    <a href="#Projects">Projects</a>&nbsp
+    <a href="#Recordings">Recordings</a>
+    <a href="#Bio" >Bio</a>
+    <a href="#Motivation">Motivation</a>
+    <a href="#Projects">Projects - </a>
     <a href="#Contact">Contact</a>
   </span>
 </p>
