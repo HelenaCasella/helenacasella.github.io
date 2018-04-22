@@ -147,8 +147,8 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
       <strong>Kasper Van Ponsele:</strong>     gitaar<br>
       <strong>Johannes Van Leuven:</strong>    gitaar<br>
       <strong>Maurice Kallebaut:</strong>      drums<br>
-      <strong>Brikke ______:</strong>          keys<br>
-      <strong>Thomas ______:</strong>          bass<br>
+      <strong>Brikke Wevers:</strong>          keys<br>
+      <strong>Thomas Perdaen:</strong>          bass<br>
     </th> 
   </tr>
  </table>
