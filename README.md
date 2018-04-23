@@ -34,7 +34,7 @@
   <tr>
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Time Moves Slow Cover - by BadBadNotGood</h1>
-        <em>Een enorme inspiratie bron voor mijn muziek. BBNG bereikt een melancholische en herkenbare sfeer waarin je gedachten worden             gestimuleerd. En een troostende stem van Samuel T. Herring maakt de sfeer en de emotie van het lied compleet.</em><br>
+        <em>BADBADNOTGOOD is een grote inspiratie bron voor mijn muziek. In dit nummer slagen ze erin om een  melancholische en herkenbare sfeer te scheppen en mijn gedachten te stimuleren. De troostende stem van Samuel T. Herring maakt de emotie van het lied compleet.</em><br>
         <strong> Muzikanten:</strong><br>
         <strong>Tomas Casella:</strong>          zang en gitaar<br>
         <strong>Arthur de Vriendt:</strong>      drums<br>
@@ -44,19 +44,18 @@
     </td>
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Eye of the Tiger arrangement</h1>
-      <em>Iets waar ik me graag mee bezig hou is het maken kleine arrangementen voor al populaire nummers. Dit is een perfect voorbeeld daarvan. Een totaal andere sfeer.</em><br>
+      <em>Ik maak graag kleine arrangementen van populaire nummers. Zo creëer ik een compleet andere sfeer. Dit is een perfect voorbeeld daarvan. </em><br>
       <strong> Muzikanten: </strong><br>
       <strong> Tomas Casella:</strong>          zang en gitaar<br>
     </td> 
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Beams of light</h1>
-      <em>Dit zeer lange nummer (mijn excuses) heb ik geschreven om te dienen als mijn GIP opdracht. Het beschrijft alle verschillende perspectieven en gevoelens van een vorige relatie a.d.h.v. de tekst maar vooral de muziek. Elke passage heeft zijn eigen plaats en tijd.</em><br>
+      <em>Dit is een lang nummer (mijn excuses) dat ik zelf geschreven heb. Het is ook het onderwerp van mijn GIP-opdracht. Het beschrijft diverse perspectieven en gevoelens van een vorige relatie. Deze variaties vind je terug in de tekst en vooral in de muzikale passages die elk hun eigen plaats en tijd hebben.</em><br>
       <strong>Muzikanten:</strong><br>
       <strong>Tomas Casella:</strong>          zang en gitaar<br>
       <strong>Arthur de Vriendt:</strong>      drums<br>
       <strong>Faust de Vogelaere:</strong>     bassgitaar<br>
       <strong>Silas Siddiki:</strong>          keys<br>
-      <strong>Ischa Demet:</strong>            saxofoon
      </td>
   </tr>
 </table>
@@ -68,16 +67,16 @@ __Mix:__ Benjamin Vanlangenhove aka Sense-A
 
 <h1 id="Bio">Bio</h1>
 
-Een 18 jarige kunsthumaniora student van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het Muda kunstencentrum te Evergem (Gent) waar ik de opleiding jazzgitaar volg van Eric Melaerts gecombineerd met zang van Jonas Cole. Omdat ik mijn muzikale academische opleiding ongetwijfeld wil voorzetten ben ik een onderzoek gestart om de best passende conservatoriums a.d.h.v. de docenten, school filosofie en locatie te vinden waar na veel    aanradingen en research is het KASK hoog in mijn achting is gestegen. Ik bedank jullie al op voorhand om mijn portfolio te beoordelen en hoop dat ik een deel kan uitmaken van de school in de richting pop zang.
+Ik ben een 18-jarige kunsthumaniorastudent van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het Muda kunstencentrum te Evergem (Gent), waar ik de opleiding Jazzgitaar volg bij Eric Melaerts gecombineerd met Zang bij Jonas Cole. Omdat ik zonder twijfel mijn muzikale academische opleiding wil voortzetten, heb ik onderzoek gedaan naar de best passende conservatoriums. Het KASK staat op mijn eerste plaats: de gerennomeerde docenten, de bevrijdende schoolfilosofie en de toplocatie Gent, waar ik woon. Ik bedank u al op voorhand om mijn portfolio te beoordelen en hoop heel hard dat ik kan verder doorgroeien in de richting Pop/Zang van het KASK.
 
-Al sinds zeer jong ben ik bezig geweest met muziek. Toen ik 8 was ben ik met muziekschool begonnen en koos ik als instrument drum, een instrument dat ik tot op vandaag nog steeds beoefen. Twee jaar later vormde ik in de laatste trekken van de lagere school mijn eerste band [Smash]("#Smash")  eerst als drummer maar na een impulsieve beslissing toch als zanger. Ik zong toen af en toe al maar nam het niet echt serieus. Tegen alle verwachtingen hebben we het met ons repertoire vooral bestaande uit hard rock het nog ver geschopt. Een 25 tal optredens en meerdere bandcoaching sessies met Erik Van Biesen (Gorky). Omdat Guns n Roses en Black Sabbath me toch niet dicht bij het hart lagen kwam de band op zijn einde maar toch kijk ik er met vreugde op terug zijnde dat dit mijn eerste ervaring als zanger was. In de verdere loop van mijn tiener jaren heb ik, met het leren van gitaar, een passie gekregen voor songs te coveren en zelf te schrijven. Hierdoor heb ik mijn stem kunnen evolueren en mijn specifieke sound kunnen vinden. In deze periode heb ik me ook ingeschreven in popcollege. Hier heb ik 4 jaar lang  gitaarlessen gekregen en zanglessen van [Liz a Ku](https://www.lizaku.com/).
+Al sinds zeer jong ben ik gedreven door muziek. Toen ik 8 was ben ik met muziekschool begonnen en koos ik als instrument drum, een instrument dat ik tot op vandaag nog beoefen. Twee jaar later vormde ik mijn eerste band [Smash]("#Smash"), eerst als drummer, maar zingen lag mij meer. Ons repertoire bestond voornamelijk uit hard rock covers en tegen alle verwachtingen in hebben we het nog ver geschopt. Een 25-tal optredens en meerdere bandcoachingsessies met Erik Van Biesen (Gorky). Guns 'n' Roses en Black Sabbath bleken toch niet zo mijn ding en twee jaar later zetten we een punt achter de band. Mijn eerste ervaring als zanger was geweldig. In de verdere tienerjaren heb ik, met het leren van gitaar, een passie gekregen voor het coveren en zelf schrijven van songs. Ik heb mijn stem hierdoor kunnen ontwikkelen en mijn specifieke sound kunnen vinden. In deze periode heb ik me ook ingeschreven in Popcollege, waar ik 4 jaar lang  gitaarles volgde en zangles bij [Liz a Ku](https://www.lizaku.com/).
 
-Tijdens Juni 2015 en Juli 2016 ben ik samen met mijn gezin voor een jaar naar Brazilië verhuisd. Daar heb ik naast normaal humaniora, zang- en gitaarlessen gevolgd, vooral bossa en latin muziek. Dit heeft een zeer grote invloed gehad op mijn muziek vandaag de dag. Ook heb ik veel studio sessies gedaan bij muzikanten [Pipo Pegoraro](http://pipopegoraro.com/) en Daniel Gralha, trompetist van de welbekende band [Bixiga 70](https://www.facebook.com/bixiga70/).
+Tussen juni 2015 en juli 2016 ben ik samen met mijn moeder en zus voor een jaar naar Brazilië verhuisd. Daar heb ik naast normaal humaniora ook zang- en gitaarlessen gevolgd, vooral bossa en latin bestudeerde ik. Dit heeft een zeer grote invloed gehad op mijn muziek tot op vandaag. Ook heb ik veel studiosessies gedaan bij muzikanten [Pipo Pegoraro](http://pipopegoraro.com/) en Daniel Gralha, trompetist van de band [Bixiga 70](https://www.facebook.com/bixiga70/).
 
 
-Een verklaring voor mijn muzikale interesse is waarschijnlijk mijn familie die vrij artistiek gebonden is. Mijn zus studeert momenteel jazz zang aan de kunsthumaniora in Antwerpen en met haar heb ik al meerdere optredens gedaan. Mijn vader heeft ook lang in het muziekcircuit als zanger gezeten en mijn nonkel  Pablo Casella is professioneel gitarist en heeft naast zijn eigen project [Little Dots](http://www.littledots.info/) onder V2 records meerdere samenwerkingen, waaronder met Lady Lynn en Sarah Ferri. Ook mijn tante vindt haar professie in de podiumkunsten met performermance en spoken word. Mijn hele leven lang is muziek en optredens aanwezig geweest en dat heeft zich voortgezet tot de artiest die ik nu ben aan het worden.
+Een verklaring voor mijn muzikale interesse is waarschijnlijk mijn familie die vrij artistiek gebonden is. Mijn zus studeert momenteel jazz zang aan de kunsthumaniora in Antwerpen en met haar heb ik al meerdere optredens gedaan. Mijn vader heeft ook lang in het muziekcircuit als zanger gezeten en mijn oom  Pablo Casella is professioneel gitarist en heeft naast zijn eigen project [Little Dots](http://www.littledots.info/) onder V2 records meerdere samenwerkingen, waaronder met Lady Lynn en Sarah Ferri. Ook mijn tante vindt haar professie in de podiumkunsten met performance en spoken word. Mijn hele leven lang is muziek en optredens aanwezig geweest en dat heeft zich voortgezet tot de artiest die ik nu ben aan het worden.
 
-Momenteel ben ik bezig met mijn eigen project “Lucky Green Camel”  waar we mijn songs en ideeën uit hebben gewerkt tot een kleine EP die we nu aan het opnemen zijn in Oxford SAE school. Een van mijn ingezonden nummers maakt hier deel van uit. Ook plannen mijn zus en ik om onze akoestische set in de zomer te kunnen vertonen. Natuurlijk ligt mijn focus nu op mijn hogere studies. 
+Momenteel ben ik bezig met mijn eigen project “Lucky Green Camel”  waar we mijn songs en ideeën uit hebben gewerkt tot een kleine EP die we nu aan het opnemen zijn in Oxford SAE institute. Een van mijn ingezonden nummers maakt hier deel van uit. Ook plannen mijn zus en ik om onze akoestische set in de zomer te kunnen vertonen. Natuurlijk ligt mijn focus nu op mijn hogere studies. 
 
 <h1 id="Motivatie">Motivatie</h1>
 
