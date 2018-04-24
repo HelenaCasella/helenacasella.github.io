@@ -95,11 +95,11 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 
 <iframe width="300" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop._  
-<strong>Tomas Casella:</strong>          zang en gitaar<br>
-<strong>Arthur de Vriendt:</strong>      drums<br>
-<strong>Faust de Vogelaere:</strong>    bassgitaar<br>
-<strong>Silas Siddiki:</strong>         keys<br>
-<strong>Ischa Demet:</strong>           saxofoon<br>
+__Tomas Casella:__          zang en gitaar  
+__Arthur de Vriendt:__      drums  
+__Faust de Vogelaere:__     bassgitaar  
+__Silas Siddiki:__          keys  
+__Ischa Demet:__            saxofoon  
             
 [Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/)  
 [Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
@@ -107,33 +107,29 @@ _Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talente
 ## Tomas and Helena Casella
 
 <iframe width="300" height="181" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
-<em>Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.</em><br>
-<strong>Tomas Casella:</strong>          zang en gitaar<br>
-<strong>Helena Casella:</strong>         zang en piano<br>
+_Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen._  
+__Tomas Casella:__          zang en gitaar  
+__Helena Casella:__         zang en piano
 
 
 ## Eye Con
 
-<iframe  width="300" height="181" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&s<br>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 __Casella Mixtape__  
-<em>Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014<br>
-</em><br>
+_Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014_  
 [Facebook](https://www.facebook.com/officialeyeconductions/)  
 [Soundcloud](https://soundcloud.com/eye_con)
 
 ## Smash
 
 <iframe width="300" height="181" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
-<em>Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak.  
-2010-2011</em><br>
-      <strong>Tomas Casella:</strong>          zang<br>
-      <strong>Kasper Van Ponsele:</strong>     gitaar<br>
-      <strong>Johannes Van Leuven:</strong>    gitaar<br>
-      <strong>Maurice Kallebaut:</strong>      drums<br>
-      <strong>Brikke Wevers:</strong>          keys<br>
-      <strong>Thomas Perdaen:</strong>         bass<br>
+_Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak. 2010-2011_  
+__Tomas Casella:__         zang  
+__Kasper Van Ponsele:__    gitaar  
+__Johannes Van Leuven:__   gitar  
+__Maurice Kallebaut:__     drums  
+__Brikke Wevers:__         keys  
+__Thomas Perdaen:__        bass  
 
 [Facebook](https://www.facebook.com/Smash-127144867334818/)
 [Youtube](http://www.youtube.com/user/Smash666ful)
