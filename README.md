@@ -46,7 +46,7 @@
       <h1 style="font-size: 1.5em; font-weigh: bold">Eye of the Tiger arrangement</h1>
       <em>Ik maak graag kleine arrangementen van populaire nummers. Zo creëer ik een compleet andere sfeer. Dit is een perfect voorbeeld daarvan. </em><br>
       <strong> Muzikanten: </strong><br>
-      <strong> Tomas Casella:</strong>          zang en gitaar<br>
+      <strong> Tomas Casella:</strong>          zang en gitaar<br><br><br>
     </td> 
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Beams of light</h1>
@@ -55,7 +55,7 @@
       <strong>Tomas Casella:</strong>          zang en gitaar<br>
       <strong>Arthur de Vriendt:</strong>      drums<br>
       <strong>Faust de Vogelaere:</strong>     bassgitaar<br>
-      <strong>Silas Siddiki:</strong>          keys<br>
+      <strong>Silas Siddiki:</strong>          keys
      </td>
   </tr>
 </table>
@@ -92,20 +92,14 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 <h1 id="Projecten">Projecten</h1>
 
 ## Lucky Green Camel
-<table style="width:100%">
-  <tr>
-    <th>
-      <iframe width="300" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </th>
-    <th><em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
+
+<iframe style="float: left" width="300" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
 <strong>Tomas Casella:</strong>          zang en gitaar<br>
 <strong>Arthur de Vriendt:</strong>      drums<br>
 <strong>Faust de Vogelaere:</strong>    bassgitaar<br>
 <strong>Silas Siddiki:</strong>         keys<br>
-<strong>Ischa Demet:</strong>           saxofoon
-    </th> 
-  </tr>
-</table>
+<strong>Ischa Demet:</strong>           saxofoon<br>
             
 [Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/)  
 [Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
