@@ -46,7 +46,7 @@
       <h1 style="font-size: 1.5em; font-weigh: bold">Eye of the Tiger arrangement</h1>
       <em>Ik maak graag kleine arrangementen van populaire nummers. Zo creëer ik een compleet andere sfeer. Dit is een perfect voorbeeld daarvan. </em><br>
       <strong> Muzikanten: </strong><br>
-      <strong> Tomas Casella:</strong>          zang en gitaar<br><br><br>
+      <strong> Tomas Casella:</strong>          zang en gitaar<br><br><br><br><br><br>
     </td> 
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Beams of light</h1>
@@ -66,7 +66,7 @@ __Recorded at:__ [SAE Oxford institute](http://www.sae.edu/gbr/campuses/oxford)
 __Mix:__ Benjamin Vanlangenhove aka Sense-A
 
 <div height="100%">
-  
+<br><br><br>
 </div>
 
 <h1 id="Bio">Bio</h1>
@@ -93,7 +93,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 
 ## Lucky Green Camel
 
-<iframe style="float: left" width="300" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="float: left" width="300" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 <em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
 <strong>Tomas Casella:</strong>          zang en gitaar<br>
 <strong>Arthur de Vriendt:</strong>      drums<br>
@@ -105,50 +105,35 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 [Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
 
 ## Tomas and Helena Casella
-<table style="width:100%">
-  <tr>
-    <th>
-      <iframe width="300" height="181" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </th>
-    <th><em>Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.</em><br>
-      <strong>Tomas Casella:</strong>          zang en gitaar<br>
-      <strong>Helena Casella:</strong>         zang en piano<br>
-    </th> 
-  </tr>
- </table>
+
+<iframe tyle="float: left" width="300" height="181" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+<em>Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.</em><br>
+<strong>Tomas Casella:</strong>          zang en gitaar<br>
+<strong>Helena Casella:</strong>         zang en piano<br>
 
 
 ## Eye Con
-<table style="width:100%">
-  <tr>
-    <th>
-      <iframe width="300" height="181" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-    </th>
-    <th><em>Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014<br>
-        Casella Mixtape</em>
-    </th> 
-  </tr>
- </table>
+
+<iframe style="float: left" width="300" height="181" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&s<br>
+__Casella Mixtape__  
+<em>Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014<br>
+</em><br>
 [Facebook](https://www.facebook.com/officialeyeconductions/)  
 [Soundcloud](https://soundcloud.com/eye_con)
 
 ## Smash
-<table style="width:100%">
-  <tr>
-    <th>
-      <iframe width="300" height="181" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </th>
-    <th><em>Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak.  
+
+<iframe style="float: left" width="300" height="181" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+<em>Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak.  
 2010-2011</em><br>
       <strong>Tomas Casella:</strong>          zang<br>
       <strong>Kasper Van Ponsele:</strong>     gitaar<br>
       <strong>Johannes Van Leuven:</strong>    gitaar<br>
       <strong>Maurice Kallebaut:</strong>      drums<br>
       <strong>Brikke Wevers:</strong>          keys<br>
-      <strong>Thomas Perdaen:</strong>          bass<br>
-    </th> 
-  </tr>
- </table>
+      <strong>Thomas Perdaen:</strong>         bass<br>
 
 [Facebook](https://www.facebook.com/Smash-127144867334818/)
 [Youtube](http://www.youtube.com/user/Smash666ful)
