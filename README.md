@@ -101,7 +101,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 
 ## Lucky Green Camel
 
-<iframe width="100%" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop._  
 __Tomas Casella:__          zang en gitaar  
 __Arthur de Vriendt:__      drums  
@@ -114,7 +114,7 @@ __Ischa Demet:__            saxofoon
 
 ## Tomas and Helena Casella
 
-<iframe width="100%" height="181" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen._  
 __Tomas Casella:__          zang en gitaar  
 __Helena Casella:__         zang en piano
@@ -122,7 +122,7 @@ __Helena Casella:__         zang en piano
 
 ## Eye Con
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 __Mixtape of Tomas Casella__  
 _Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014_  
 [Facebook](https://www.facebook.com/officialeyeconductions/)  
@@ -130,7 +130,7 @@ _Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through
 
 ## Smash
 
-<iframe width="100%" height="181" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak. 2010-2011_  
 __Tomas Casella:__         zang  
 __Kasper Van Ponsele:__    gitaar  
@@ -139,7 +139,7 @@ __Maurice Kallebaut:__     drums
 __Brikke Wevers:__         keys  
 __Thomas Perdaen:__        bass  
 
-[Facebook](https://www.facebook.com/Smash-127144867334818/)
+[Facebook](https://www.facebook.com/Smash-127144867334818/)  
 [Youtube](http://www.youtube.com/user/Smash666ful)
 
 <div height="100%">
