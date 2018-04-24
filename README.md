@@ -62,7 +62,7 @@
 
 ## Beams of light
 <iframe width="300" height="181" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434122416&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-__Recorded at:__ [SAE Oxford institute](http://www.sae.edu/gbr/campuses/oxford)
+__Recorded at:__ [SAE Oxford institute](http://www.sae.edu/gbr/campuses/oxford)  
 __Mix:__ Benjamin Vanlangenhove aka Sense-A
  
 
@@ -92,7 +92,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 <table style="width:100%">
   <tr>
     <th>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="300" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
     <th><em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
 <strong>Tomas Casella:</strong>          zang en gitaar<br>
@@ -111,7 +111,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 <table style="width:100%">
   <tr>
     <th>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="300" height="181" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
     <th><em>Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.</em><br>
       <strong>Tomas Casella:</strong>          zang en gitaar<br>
@@ -139,7 +139,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 <table style="width:100%">
   <tr>
     <th>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="300" height="181" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
     <th><em>Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 middelbare schooljongens de pannen van het dak.  
 2010-2011</em><br>
