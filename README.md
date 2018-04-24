@@ -61,6 +61,7 @@
 </table>
 
 ## Beams of light
+<iframe width="300" height="181" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434122416&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 __Recorded at:__ [SAE Oxford institute](http://www.sae.edu/gbr/campuses/oxford)
 __Mix:__ Benjamin Vanlangenhove aka Sense-A
  
@@ -124,7 +125,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 <table style="width:100%">
   <tr>
     <th>
-      <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+      <iframe width="300" height="181" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     </th>
     <th><em>Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014<br>
         Casella Mixtape</em>
