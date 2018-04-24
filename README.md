@@ -46,7 +46,7 @@
       <h1 style="font-size: 1.5em; font-weigh: bold">Eye of the Tiger arrangement</h1>
       <em>Ik maak graag kleine arrangementen van populaire nummers. Zo creëer ik een compleet andere sfeer. Dit is een perfect voorbeeld daarvan. </em><br>
       <strong> Muzikanten: </strong><br>
-      <strong> Tomas Casella:</strong>          zang en gitaar<br><br><br><br><br><br>
+      <strong> Tomas Casella:</strong>          zang en gitaar<br><br><br><br><br><br><br><br>
     </td> 
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Beams of light</h1>
@@ -93,20 +93,21 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 
 ## Lucky Green Camel
 
-<iframe style="float: left" width="300" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
-<em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
+<iframe style="float: left" width="300" height="181" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<span style=float"right" ><em>Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop.</em><br> 
 <strong>Tomas Casella:</strong>          zang en gitaar<br>
 <strong>Arthur de Vriendt:</strong>      drums<br>
 <strong>Faust de Vogelaere:</strong>    bassgitaar<br>
 <strong>Silas Siddiki:</strong>         keys<br>
 <strong>Ischa Demet:</strong>           saxofoon<br>
+</span>
             
 [Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/)  
 [Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
 
 ## Tomas and Helena Casella
 
-<iframe tyle="float: left" width="300" height="181" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="float: left" width="300" height="181" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 <em>Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen.</em><br>
 <strong>Tomas Casella:</strong>          zang en gitaar<br>
