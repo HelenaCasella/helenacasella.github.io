@@ -64,7 +64,8 @@
 <iframe width="300" height="181" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434122416&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 __Recorded at:__ [SAE Oxford institute](http://www.sae.edu/gbr/campuses/oxford)  
 __Mix:__ Benjamin Vanlangenhove aka Sense-A
- 
+
+ <div height=100%></div>
 
 <h1 id="Bio">Bio</h1>
 
@@ -141,7 +142,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
     <th>
       <iframe width="300" height="181" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </th>
-    <th><em>Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 middelbare schooljongens de pannen van het dak.  
+    <th><em>Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak.  
 2010-2011</em><br>
       <strong>Tomas Casella:</strong>          zang<br>
       <strong>Kasper Van Ponsele:</strong>     gitaar<br>
