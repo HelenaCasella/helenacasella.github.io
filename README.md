@@ -134,7 +134,7 @@ _Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through
 _Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak. 2010-2011_  
 __Tomas Casella:__         zang  
 __Kasper Van Ponsele:__    gitaar  
-__Johannes Van Leuven:__   gitar  
+__Johannes Van Leuven:__   gitaar  
 __Maurice Kallebaut:__     drums  
 __Brikke Wevers:__         keys  
 __Thomas Perdaen:__        bass  
