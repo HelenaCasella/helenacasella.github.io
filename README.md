@@ -126,7 +126,7 @@ __Helena Casella:__         zang en piano
 
 <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 __Mixtape of Tomas Casella__  
-_Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity est. 2014_  
+_Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity. Est. 2014_  
 [Facebook](https://www.facebook.com/officialeyeconductions/)  
 [Soundcloud](https://soundcloud.com/eye_con)
 
