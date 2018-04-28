@@ -34,7 +34,7 @@
   <tr>
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Time Moves Slow Cover - by BadBadNotGood</h1>
-        <em>BADBADNOTGOOD is een grote inspiratiebron voor mijn muziek. In dit nummer slagen ze erin om een  melancholische en herkenbare sfeer te scheppen en mijn gedachten te stimuleren. De troostende stem van Samuel T. Herring maakt de emotie van het lied compleet.</em><br>
+        <em>BADBADNOTGOOD is een grote inspiratiebron voor mijn muziek. Het is subliem hoe de band, met een mix van jazz, hiphop en soul, tot een heel nieuwe en frisse sound komt. In dit nummer slagen ze erin om een  melancholische en herkenbare sfeer te scheppen en mijn gedachten te stimuleren. De troostende stem van Samuel T. Herring maakt de emotie van het lied compleet.</em><br>
         <strong> Muzikanten:</strong><br>
         <strong>Tomas Casella:</strong>          zang en gitaar<br>
         <strong>Arthur de Vriendt:</strong>      drums<br>
@@ -78,7 +78,7 @@ Al sinds zeer jong ben ik gedreven door muziek. Toen ik 8 was ben ik met muzieks
 Tussen juni 2015 en juli 2016 ben ik samen met mijn moeder en zus voor een jaar naar Brazilië verhuisd. Daar heb ik naast normaal humaniora ook zang- en gitaarlessen gevolgd, vooral bossa en latin bestudeerde ik. Dit heeft een zeer grote invloed gehad op mijn muziek, tot op vandaag. Ook heb ik in veel studiosessies gespeeld en gezongen bij muzikanten [Pipo Pegoraro](http://pipopegoraro.com/) en Daniel Gralha, trompetist van de band [Bixiga 70](https://www.facebook.com/bixiga70/).
 
 
-Een verklaring voor mijn muzikale interesse is waarschijnlijk mijn familie die veel met muziek en performance bezig is. Mijn zus Helena Casella studeert  Jazz-zang aan de Kunsthumaniora in Antwerpen en met haar heb ik al meerdere optredens gedaan. Mijn vader Michiel Dendooven zit ook in het muziekcircuit als zanger en mijn oom  Pablo Casella is professioneel gitarist en heeft naast zijn eigen project [Little Dots](http://www.littledots.info/) onder V2 records meerdere samenwerkingen, waaronder met Lady Lynn en Sarah Ferri. Mijn tante Luanda Casella vindt haar professie in de podiumkunsten met performance en spoken word. Mijn hele leven lang zijn muziek en optreden(s) al aanwezig geweest en dat heeft een belangrijke invloed op de artiest die ik nu aan het worden ben.
+Een verklaring voor mijn muzikale interesse is waarschijnlijk mijn familie die veel met muziek en performance bezig is. Mijn zus Helena Casella studeert  Jazz-zang aan de Kunsthumaniora in Antwerpen en met haar heb ik al meerdere optredens gedaan. Mijn vader Michiel Dendooven zit ook in het muziekcircuit als zanger en mijn oom  Pablo Casella is professioneel gitarist en heeft naast zijn eigen project [Little Dots](http://www.littledots.info/) onder V2 Records meerdere samenwerkingen, waaronder met Lady Lynn en Sarah Ferri. Mijn tante Luanda Casella vindt haar professie in de podiumkunsten met performance en spoken word. Mijn hele leven lang zijn muziek en optreden(s) al aanwezig geweest en dat heeft een belangrijke invloed op de artiest die ik nu aan het worden ben.
 
 Momenteel ben ik bezig met mijn eigen project “Lucky Green Camel”  waar we mijn songs en ideeën uit hebben gewerkt tot een kleine EP die we nu aan het opnemen zijn in Oxford SAE institute. Een van mijn ingezonden nummers maakt hier deel van uit. Ook plannen mijn zus en ik om onze akoestische set in de zomer te kunnen vertonen. Natuurlijk ligt mijn focus nu op mijn hogere studies.
 
@@ -92,8 +92,8 @@ Omdat ik zonder twijfel mijn muzikale academische opleiding wil voortzetten, heb
 
 De reden waarom ik zang kies als hogere opleiding is omdat ik mijn stem zo veel mogelijk wil verbeteren om later een carrière als singer-songwriter voort te zetten. Voor dit doel heb ik tot nu toe gitaar als richting gekozen, maar als het er op neer komt is zang mijn hoofdinstrument en passie.
 
-Ik kan zonder twijfel zeggen dat muziek mijn roeping is. Ik leef voor het gevoel wanneer een song af is of het brengen van een set waar ik al maanden aan een stuk aan zit te werken. Naast mijn eigen zelfvertrouwen hebben mijn naasten me altijd aangemoedigt om er voor te gaan en zien ze zoals ik een toekomst voor mij als muzikant. Het enigste wat mij van deze verwachting houdt is het werk dat ik er in moet steken en dat ben ik meer dan bereid te doen. Mijn doorzettingsvermogen is eindeloos en ik zal zweten en zwoegen om mijn doel te bereiken.
-Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan verdiepen in mijn muzikale carrière met behulp van jullie school.
+Muziek is mijn roeping. Ik leef voor het gevoel wanneer een song af is of bij het brengen van een set waar ik met hart en ziel heb aan gewerkt. Zoals velen heb ik mijn favorieten, maar ik luister naar veel genres. Deze combineer ik graag in mijn eigen muziek. Naast mijn vastberadenheid hebben mijn naasten me altijd aangemoedigd om er voor te gaan en zien ze, zoals ik, een toekomst voor mij als muzikant. Ik besef dat een (steen)goede muzikant zijn niet gewoon neerkomt op inspiratie en talent, maar vooral op hard werk. Mijn doorzettingsvermogen is eindeloos en ik zal zweten en zwoegen om mijn doel te bereiken.
+Ik hoop dat u mijn kandidatuur positief overweegt en dat ik volgend jaar mij kan verdiepen in mijn muzikale carrière onder begeleiding van het KASK.
 
 <div height="100%">
 <br><br><br>
