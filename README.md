@@ -71,7 +71,7 @@ __Mix:__ Benjamin Vanlangenhove aka Sense-A
 
 <h1 id="Bio">Bio</h1>
 
-Ik ben een 18-jarige kunsthumaniorastudent van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het MUDA Kunstencentrum te Evergem (Gent), waar ik de opleiding Jazzgitaar volg bij Eric Melaerts gecombineerd met Zang bij Jonas Cole. Omdat ik zonder twijfel mijn muzikale academische opleiding wil voortzetten, heb ik onderzoek gedaan naar de best passende conservatoriums. Het KASK staat op mijn eerste plaats: de gerennomeerde docenten, de bevrijdende schoolfilosofie en de toplocatie Gent, waar ik woon. Ik bedank u al op voorhand om mijn portfolio te beoordelen en hoop heel hard dat ik kan verder doorgroeien in de richting Pop/Zang van het KASK.
+Ik ben een 18-jarige kunsthumaniorastudent van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het MUDA Kunstencentrum te Evergem (Gent), waar ik de opleiding Jazzgitaar volg bij Eric Melaerts gecombineerd met Zang bij Jonas Cole. 
 
 Al sinds zeer jong ben ik gedreven door muziek. Toen ik 8 was ben ik met muziekschool begonnen en koos ik als instrument drum, een instrument dat ik tot op vandaag nog beoefen. Twee jaar later vormde ik mijn eerste band [Smash]("#Smash"), eerst als drummer, maar zingen lag mij meer. Ons repertoire bestond voornamelijk uit hardrockcovers en tegen alle verwachtingen in hebben we het nog ver geschopt. Een 25-tal optredens en meerdere bandcoachingsessies met Erik Van Biesen (Gorky). Guns 'n' Roses en Black Sabbath bleken toch niet zo mijn ding en twee jaar later zetten we een punt achter de band. Mijn eerste ervaring als zanger was geweldig. In de verdere tienerjaren heb ik, met het leren van gitaar, een passie gekregen voor het coveren en zelf schrijven van songs. Ik heb mijn stem hierdoor kunnen ontwikkelen en mijn specifieke sound kunnen vinden. In deze periode heb ik me ook ingeschreven in Popcollege, waar ik 4 jaar lang  gitaarles volgde en zangles bij [Liz a Ku](https://www.lizaku.com/).
 
@@ -88,6 +88,8 @@ Momenteel ben ik bezig met mijn eigen project “Lucky Green Camel”  waar we m
 
 <h1 id="Motivatie">Motivatie</h1>
 
+Omdat ik zonder twijfel mijn muzikale academische opleiding wil voortzetten, heb ik onderzoek gedaan naar de best passende conservatoriums. Het KASK staat op mijn eerste plaats: de gerennomeerde docenten, de bevrijdende schoolfilosofie en de toplocatie Gent, waar ik woon. Ik bedank u al op voorhand om mijn portfolio te beoordelen en hoop heel hard dat ik kan verder doorgroeien in de richting Pop/Zang van het KASK.
+
 De reden waarom ik zang kies als hogere opleiding is omdat ik mijn stem zo veel mogelijk wil verbeteren om later een carrière als singer-songwriter voort te zetten. Voor dit doel heb ik tot nu toe gitaar als richting gekozen, maar als het er op neer komt is zang mijn hoofdinstrument en passie.
 
 Ik kan zonder twijfel zeggen dat muziek mijn roeping is. Ik leef voor het gevoel wanneer een song af is of het brengen van een set waar je al maanden aan een stuk aan zit te werken. Naast mijn eigen zelfvertrouwen hebben mijn naasten me altijd aangemoedigt om er voor te gaan en zien ze zoals ik een toekomst voor mij als muzikant. Het enigste wat mij van deze verwachting houdt is het werk dat ik er in moet steken en dat ben ik meer dan bereid te doen. Mijn doorzettingsvermogen is eindeloos en ik zal zweten en zwoegen om mijn doel te bereiken.
@@ -102,7 +104,7 @@ Ik hoop dat jullie mijn applicatie overwegen en ik dat ik volgend jaar mij kan v
 ## Lucky Green Camel
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-_Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop._  
+_Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop and reggae._  
 __Tomas Casella:__          zang en gitaar  
 __Arthur de Vriendt:__      drums  
 __Faust de Vogelaere:__     bassgitaar  
