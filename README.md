@@ -153,7 +153,7 @@ __Thomas Perdaen:__        bass
 
 
 __Bookings:__  +32 (0)497313201  
-tomatolol10@gmail.com
+helena.dendooven@gmail.com
           
 [Youtube](https://www.youtube.com/channel/UCE5P7IqSueXwEbTCm_Th7fw?view_as=subscriber)
 
