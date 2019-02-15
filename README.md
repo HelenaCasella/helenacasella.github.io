@@ -14,10 +14,10 @@
   </span>
 </p>
 <p>
-  <img src="https://user-images.githubusercontent.com/38376671/39085928-94c0995c-458a-11e8-9edc-b0f30b5f7ff2.png" alt="Tomas Profile">
+  <img src="https://helenacasella.github.io/HeleWithBand.jpg" alt="Helena Profile">
 </p>
 
-### Singer-songwriter met Braziliaanse roots in het startschot van zijn carrière. Met een hart gedrenkt in de muziek is Tomas Casella een artiest die niet grijpt naar de populaire ritmes en clichés maar zijn eigen sound creëert en combineert met lyrische teksten vol woordspel en sterke betekenissen.
+### Een bezielde zangeres die haar muzikale wortels opspoort onder het experimenteren met diverse muziekstijlen. Met een unieke en warme stem weet Helena Casella vol gemeenzaamheid haar publiek aan te grijpen en speciale kleuren een melodische vorm te geven. Hierbij beïnvloed ze haar zanglijnen met sterke soul en jazz invloeden, al combinerend met haar Braziliaanse roots.
 
 
 
