@@ -1,4 +1,5 @@
-<!-- ![](https://user-images.githubusercontent.com/47566158/52852539-2ff46500-3119-11e9-82b1-499b1df6ea14.jpg) -->
+<!-- ![](helenacasella.github.io/HeleWithBand.jpg
+      ) -->
 
 <p class="menu">
   <span style="float:left;">
