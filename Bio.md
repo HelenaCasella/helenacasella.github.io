@@ -1,12 +1,88 @@
-# Bio
 
-Een 18 jarige kunsthumaniora student van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het Muda kunstencentrum te Evergem (Gent) waar ik de opleiding jazzgitaar volg van Eric Melaerts gecombineerd met zang van Jonas Cole. Omdat ik mijn muzikale academische opleiding ongetwijfeld wil voorzetten ben ik een onderzoek gestart om de best passende conservatoriums a.d.h.v. de docenten, school filosofie en locatie te vinden waar na veel    aanradingen en research het Conservatorium van Amsterdam hoog in mijn achting is gestegen. Ik bedank jullie al op voorhand om mijn portfolio te beoordelen en hoop dat ik een deel kan uitmaken van de school in de richting pop zang.
+1
+<!-- ![](https://user-images.githubusercontent.com/38376671/38975032-88cf5a5a-43ac-11e8-8798-7dfd50819762.jpg) -->
+2
+​
+3
+<p class="menu">
+4
+  <span style="float:left;">
+5
+    <a href="#Projecten" style="font-size: 2em;font-weight: bold;">Portfolio</a>
+6
+  </span>
+7
+  <span style="float:right;">
+8
+    <a href="#Recordings">Recordings - </a>
+9
+    <a href="#Bio" >Bio - </a>
+10
+    <a href="#Motivatie">Motivatie - </a>
+11
+    <a href="#Projecten">Projecten - </a>
+12
+    <a href="#Contact">Contact</a>
+13
+  </span>
+14
+</p>
+15
+<p>
+16
+  <img src="https://user-images.githubusercontent.com/38376671/39085928-94c0995c-458a-11e8-9edc-b0f30b5f7ff2.png" alt="Tomas Profile">
+17
+</p>
+18
+​
+19
+### Singer-songwriter met Braziliaanse roots in het startschot van zijn carrière. Met een hart gedrenkt in de muziek is Tomas Casella een artiest die niet grijpt naar de populaire ritmes en clichés maar zijn eigen sound creëert en combineert met lyrische teksten vol woordspel en sterke betekenissen.
+20
+​
+21
+​
+22
+​
+23
+​
+24
+<h1 id="Recordings">Recordings</h1>
+25
+​
+26
+<table style="width:100%">
+27
+  <tr>
+28
+    <th>
+29
+      <iframe width="300" height="181" src="https://www.youtube.com/embed/9JZg_rZwPUk" frameborder="0" allow="autoplay; encrypted-media"       allowfullscreen></iframe>
+30
+    </th>
+31
+    <th><iframe width="300" height="181" src="https://www.youtube.com/embed/G-Fgh1zsIJg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></th> 
+32
+    <th><iframe width="300" height="181" src="https://www.youtube.com/embed/tFYYNFDnl9A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></th>
+33
+  </tr>
+34
+  <tr>
+35
+    <td>
+36
+      <h1 style="font-size: 1.5em; font-weigh: bold">Time Moves Slow Cover - by BadBadNotGood</h1>
+37
+        <em>BADBADNOTGOOD is een grote inspiratiebron voor mijn muziek. Het is subliem hoe de band, met een mix van jazz, hiphop en soul, tot een heel nieuwe en frisse sound komt. In dit nummer slagen ze erin om een  melancholische en herkenbare sfeer te scheppen en mijn gedachten te stimuleren. De troostende stem van Samuel T. Herring maakt de emotie van het lied compleet.</em><br>
+38
+        <strong> Muzikanten:</strong><br>
+39
+        <strong>Tomas Casella:</strong>          zang en gitaar<br>
+40
+        <strong>Arthur de Vriendt:</strong>      drums<br>
+41
+        <strong>Faust de Vogelaere:</strong>     bassgitaar<br>
+42
+        <strong>Silas Siddiki:</strong>          keys<br>
+43
+        <strong>Ischa Demet:</strong>            saxofoon
 
-Al sinds zeer jong ben ik bezig geweest met muziek. Toen ik 8 was ben ik met muziekschool begonnen en koos ik als instrument drum, een instrument dat ik tot op vandaag nog steeds beoefen. Twee jaar later vormde ik in de laatste trekken van de lagere school mijn eerste band “Smash”  eerst als drummer maar na een impulsieve beslissing toch als zanger. Ik zong toen af en toe al maar nam het niet echt serieus. Tegen alle verwachtingen hebben we het met ons repertoire vooral bestaande uit hard rock het nog ver geschopt. Een 25 tal optredens en meerdere bandcoaching sessies met Erik Van Biesen (Gorky). Omdat Guns n Roses en Black Sabbath me toch niet dicht bij het hart lagen kwam de band op zijn einde maar toch kijk ik er met vreugde op terug zijnde dat dit mijn eerste ervaring als zanger was. In de verdere loop van mijn tiener jaren heb ik, met het leren van gitaar, een passie gekregen voor songs te coveren en zelf te schrijven. Hierdoor heb ik mijn stem kunnen evolueren en mijn specifieke sound kunnen vinden. In deze periode heb ik me ook ingeschreven in popcollege. Hier heb ik 4 jaar lang  gitaarlessen gekregen en zanglessen van Liz a Ku.
-
-Tijdens Juni 2015 en Juli 2016 ben ik samen met mijn gezin voor een jaar naar Brazilië verhuisd. Daar heb ik naast normaal humaniora, zang- en gitaarlessen gevolgd, vooral bossa en latin muziek. Dit heeft een zeer grote invloed gehad op mijn muziek vandaag de dag. Ook heb ik veel studio sessies gedaan bij muzikanten Pipo Pegoraro en Daniel Gralha van de welbekende band Bixiga 70.
-
-
-Een verklaring voor mijn muzikale interesse is waarschijnlijk mijn familie die vrij artistiek gebonden is. Mijn zus studeert momenteel jazz zang aan de kunsthumaniora in Antwerpen en met haar heb ik al meerdere optredens gedaan. Mijn vader heeft ook lang in het muziekcircuit als zanger gezeten en mijn nonkel  Pablo Casella is professioneel gitarist en heeft naast zijn eigen project “Little Dots” onder V2 records meerdere samenwerkingen, waaronder met Lady Lynn en Sarah Ferri. Ook mijn tante vindt haar professie in de podiumkunsten met performermance en spoken word. Mijn hele leven lang is muziek en optredens aanwezig geweest en dat heeft zich voortgezet tot de artiest die ik nu ben aan het worden.
-
-Momenteel ben ik bezig met mijn eigen project “Lucky Green Camel”  waar we mijn songs en ideeën uit hebben gewerkt tot een kleine EP die we nu aan het opnemen zijn in Oxford SAE school. Een van mijn ingezonden nummers maakt hier deel van uit. Ook plannen mijn zus en ik om onze akoestische set in de zomer te kunnen vertonen. Natuurlijk ligt mijn focus nu op mijn hogere studies.
