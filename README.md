@@ -81,16 +81,26 @@
 
 <h1 id="Bio">Bio</h1>
 
-Ik ben een 18-jarige kunsthumaniorastudent van Belgisch-Braziliaanse afkomst. Momenteel zit ik in mijn laatste jaar op het MUDA Kunstencentrum te Evergem (Gent), waar ik de opleiding Jazzgitaar volg bij Eric Melaerts gecombineerd met Zang bij Jonas Cole. 
+Ik ben een 17-jarige studente (18 in april) uit Gent en rond dit jaar mijn middelbaar af op De!Kunsthumaniora Antwerpen. Ik volg er de opleiding jazz-zang bij Herlinde Ghekiere, met piano als neven instrument bij docent Wout Gooris. 
 
-Al sinds zeer jong ben ik gedreven door muziek. Toen ik 8 was ben ik met muziekschool begonnen en koos ik als instrument drum, een instrument dat ik tot op vandaag nog beoefen. Twee jaar later vormde ik mijn eerste band [Smash]("#Smash"), eerst als drummer, maar zingen lag mij meer. Ons repertoire bestond voornamelijk uit hardrockcovers en tegen alle verwachtingen in hebben we het nog ver geschopt. Een 25-tal optredens en meerdere bandcoachingsessies met Erik Van Biesen (Gorky). Guns 'n' Roses en Black Sabbath bleken toch niet zo mijn ding en twee jaar later zetten we een punt achter de band. Mijn eerste ervaring als zanger was geweldig. In de verdere tienerjaren heb ik, met het leren van gitaar, een passie gekregen voor het coveren en zelf schrijven van songs. Ik heb mijn stem hierdoor kunnen ontwikkelen en mijn specifieke sound kunnen vinden. In deze periode heb ik me ook ingeschreven in Popcollege, waar ik 4 jaar lang  gitaarles volgde en zangles bij [Liz a Ku](https://www.lizaku.com/).
-
-Tussen juni 2015 en juli 2016 ben ik samen met mijn moeder en zus voor een jaar naar Brazilië verhuisd. Daar heb ik naast normaal humaniora ook zang- en gitaarlessen gevolgd, vooral bossa en latin bestudeerde ik. Dit heeft een zeer grote invloed gehad op mijn muziek, tot op vandaag. Ook heb ik in veel studiosessies gespeeld en gezongen bij muzikanten [Pipo Pegoraro](http://pipopegoraro.com/) en Daniel Gralha, trompetist van de band [Bixiga 70](https://www.facebook.com/bixiga70/).
+Het is een enorm geschenk om vanaf jongs af aan door je familie gestimuleerd te worden om de muziekwereld binnen te treden. Als half-Braziliaanse ben ik opgegroeid met de schoonheid van gezamelijk musiceren. Een culturele eigenschap die al in mijn kleuterjaren mijn eigen stembanden aanwakkerde, om als zangeres mijzelf en mijn gevoelens te uiten. 
 
 
-Een verklaring voor mijn muzikale interesse is waarschijnlijk mijn familie die veel met muziek en performance bezig is. Mijn zus Helena Casella studeert  Jazz-zang aan de Kunsthumaniora in Antwerpen en met haar heb ik al meerdere optredens gedaan. Mijn vader Michiel Dendooven zit ook in het muziekcircuit als zanger en mijn oom  Pablo Casella is professioneel gitarist en heeft naast zijn eigen project [Little Dots](http://www.littledots.info/) onder V2 Records meerdere samenwerkingen, waaronder met Lady Lynn en Sarah Ferri. Mijn tante Luanda Casella vindt haar professie in de podiumkunsten met performance en spoken word. Mijn hele leven lang zijn muziek en optreden(s) al aanwezig geweest en dat heeft een belangrijke invloed op de artiest die ik nu aan het worden ben.
+Mijn muzikale opleiding ging van start toen ik 7 was en aan de muziekschool begon voor notenleer. Na een jaar theoretische basiskennis kon ik mijn eerste klassieke pianolessen aanvangen. als 10-jarige was ik vooral opzoek naar een muziekgenre die mij op dat moment interesseerde, en dankzij mijn eerste particuliere zanglessen met [Lady Linn] (http://www.ladylinn.be/web/) openden er vele deuren. 
 
-Momenteel ben ik bezig met mijn eigen project “Lucky Green Camel”  waar we mijn songs en ideeën uit hebben gewerkt tot een kleine EP die we nu aan het opnemen zijn in Oxford SAE institute. Een van mijn ingezonden nummers maakt hier deel van uit. Ook plannen mijn zus en ik om onze akoestische set in de zomer te kunnen vertonen. Natuurlijk ligt mijn focus nu op mijn hogere studies.
+Niet veel tijd later heb ik me ingeschreven in Popcollege, waar ik samen met mijn oudere broer zangles bij [Liz a Ku](https://www.lizaku.com/) en piano van [Lander de Roo](https://mellvids.be/dirigent/) volgde. Hier begon ik voor het eerst mijn eigen sound te creëren en beleefde ik mijn eerste podium-ervaringen en jamsessies. Ik speelde en zong er voornamelijk Soul/R&B en ontvouwde hiervoor ook een grote liefde. Tot op de dag van vandaag houd ik mij nog steeds gepassioneerd bezig met het uitbreiden van mijn repertoire in dit genre. 
+
+Ik combineerde popmuziek met mijn klassieke muziekstudies tot mijn 14 jaar. In deze periode voltooide ik 4 jaar algemene muziekleer en nog 2 jaar in een hogere graad met vooral muziekgeschiedenis. Daarnaast heb ik ook 7 jaar klassieke piano afgewerkt. 
+
+In Juni 2015 ben ik voor jaar naar Rio de Janeiro verhuisd met mijn moeder en oudere broer.  Daar vervolgde ik mijn pianolessen en liet mij verdiepen in de MPB,Música Popular Brasileira  (letterlijk “Braziliaanse populaire muziek”) en de Bossa Nova. Ik  kreeg er ook percussieles en verkende hierdoor verschillende latin rhythms. Dit was een van de meest leerrijk en invloedrijke muziekperiodes tijdens mijn studies. Er waren vele familie-vrienden en geweldige muzikanten als [Pipo Pegoraro](http://pipopegoraro.com/), Daniel Gralha, trompettist van de band [Bixiga 70](https://www.facebook.com/bixiga70/), en [Ligia kamada](https://ligiakamada.com/agenda/), waarmee ik mij musicaal kon manifesteren. 
+
+Eenmaal terug in België kwam ik voor het eerst in contact met jazz, en het is vandaag de meest dominerende factor in mijn persoonlijke muzikaliteit. Vol hartstochtelijkheid liet ik mij er volledig in verdiepen en ik zou het ongetwijfeld nooit meer willen of kunnen loslaten. Ik was 15 jaar toen ik mijn vierde middelbaar initieerde op MUDA kunstencentrum (Gent)  voor een jazz-zangopleiding bij [Elke Bruyneel](http://www.lucyandthebirds.com/?fbclid=IwAR1r10pKo5Odd4vupCtosEOlhWPXw-hidhTs5vM_LC9xV-BqLvrBKvlUyK4) en Jonas Cole, met piano als begeleidend instrument. Na anderhalf jaar voelde ik de stimulatie van de kunstschool aanmerkelijk wegdrijven, dus verhuisde ik naar Antwerpen om daar mijn muzikale studies voort te zetten secundair onderwijs te volmaken. 
+
+Naast heel deze loop van muzikale vorming, heb ik ontzettend veel ervaring opgelopen door het bespelen met mijn uiterst muzikale familie. Met mijn broer Tomas Casella, huidige student op KASK Conservatorium Gent, heb ik al meerdere optredens uitgevoerd. Af en toe komt mijn vader Michiel Dendooven (singer-songwriter) ons vergezellen op het podium en brengen we een meerstemmige interpretatie van zijn prachtige zelfgeschreven nummers. 
+Mijn nonkel Pablo Casella is professioneel gitarist en heeft naast zijn eigen band [Little Dots](http://www.littledots.info/) onder V2 Records meerdere samenwerkingen met andere artiesten, waaronder [Sarah Ferri] (https://www.sarahferri.be/) en [Lady Linn] (http://www.ladylinn.be/web/). Door hem leerde ik vele professionele muzikanten kennen en kwam ik in een Hiphop/exotic funk band terecht, genaamd [Castro & De Bende] (https://www.youtube.com/channel/UCtOjrx4Gnc43_XAjgUApDfg). We lanceerden een EP met enkele videoclips, en brachten onze muziek onder andere op de grote planken van de Gentse Feesten. 
+
+Momenteel werk ik aan een project met mijn nonkel, waarin we een mix van jazz, soul en Braziliaanse muziek brengen met piano, zang, gitaar en geïmproviseerde percussie instrumenten als bezetting. We hebben ons repertoire als enkele keren vertoond en hebben nog enkele optredens gepland in het komende jaar. Daarnaast ben ik ook bezig aan een project met [Jamaican Jazz Orchestra] (http://jamaicanjazzorchestra.com/), waarmee ik binnenkort een nummer, of meerdere zal uitbrengen op hun tweede album. Uiteraard stel ik mij volop te werk met de voorbereiding voor mijn hogere studies. 
+
 
 <div height="100%">
 <br><br><br>
@@ -98,12 +108,12 @@ Momenteel ben ik bezig met mijn eigen project “Lucky Green Camel”  waar we m
 
 <h1 id="Motivatie">Motivatie</h1>
 
-Omdat ik zonder twijfel mijn muzikale academische opleiding wil voortzetten, heb ik onderzoek gedaan naar de best passende conservatoriums. Het KASK staat op mijn eerste plaats: de gerennomeerde docenten, de bevrijdende schoolfilosofie en de toplocatie Gent, waar ik woon. Ik bedank u al op voorhand om mijn portfolio te beoordelen en hoop heel hard dat ik kan verder doorgroeien in de richting Pop/Zang van het KASK.
+Motivation is my middle name. 
+Motivation is my middle name.
+Motivation is my middle name.
+Motivation is my middle name.
+Motivation is my middle name.
 
-De reden waarom ik zang kies als hogere opleiding is omdat ik mijn stem zo veel mogelijk wil verbeteren om later een carrière als singer-songwriter voort te zetten. Voor dit doel heb ik tot nu toe gitaar als richting gekozen, maar als het er op neer komt is zang mijn hoofdinstrument en passie.
-
-Muziek is mijn roeping. Ik leef voor het gevoel wanneer een song af is of bij het brengen van een set waar ik met hart en ziel heb aan gewerkt. Zoals velen heb ik mijn favorieten, maar ik luister naar veel genres. Deze combineer ik graag in mijn eigen muziek. Naast mijn vastberadenheid hebben mijn naasten me altijd aangemoedigd om er voor te gaan en zien ze, zoals ik, een toekomst voor mij als muzikant. Ik besef dat een (steen)goede muzikant zijn niet gewoon neerkomt op inspiratie en talent, maar vooral op hard werk. Mijn doorzettingsvermogen is eindeloos en ik zal zweten en zwoegen om mijn doel te bereiken.
-Ik hoop dat u mijn kandidatuur positief overweegt en dat ik volgend jaar mij kan verdiepen in mijn muzikale carrière onder begeleiding van het KASK.
 
 <div height="100%">
 <br><br><br>
