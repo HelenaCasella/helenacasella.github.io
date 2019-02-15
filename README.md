@@ -47,9 +47,9 @@
         <strong>Opgenomen in KASK Conservatorium Gent</strong><br>
     </td>
     <td>
-      <h1 style="font-size: 1.5em; font-weigh: bold">Polka dots and moonbeams - Ballad</h1>
-       <em>Music by Jimmy Van Heusen<br>
-           Lyrics by Johnny Burke</em><br>
+          <h1 style="font-size: 1.5em; font-weigh: bold">Polka dots and moonbeams - Ballad</h1>
+            <em>Music by Jimmy Van Heusen<br>
+                Lyrics by Johnny Burke</em><br>
         <strong> Muzikanten:</strong><br>
         <strong>Helena Casella:</strong>          zang<br>
         <strong>Thibaut de Ryckere:</strong>      piano<br>
@@ -131,9 +131,9 @@ __Helena Casella:__       zang<br>
 __Sam Vloemans:__         trompet<br>
 __David Van Belleghem:__  drums<br>
 __Matthias Debusschere:__ basgitaar<br>
-__Pablo Casella:__        gitaar<br>  
-__Luk Vermeir:__          keys<br>  
-__Tom Callens:__          saxofoon<br>  
+__Pablo Casella:__        gitaar<br>
+__Luk Vermeir:__          keys<br>
+__Tom Callens:__          saxofoon<br>
             
 [Spotify](https://open.spotify.com/artist/398cBYPazAIhZXHeXPWEif)  
 [Youtube](https://www.youtube.com/channel/UCtOjrx4Gnc43_XAjgUApDfg)
@@ -141,10 +141,10 @@ __Tom Callens:__          saxofoon<br>
 
 ## Duo Pablo and Helena Casella
 
-<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/embed/ttaFUb5f7xk"></iframe> 
-_Insert text here_ 
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/embed/ttaFUb5f7xk"></iframe>
+_Insert text here._ 
 __Pablo Casella:__        gitaar en percussie<br>
-__Helena Casella:__       zang en piano<br> 
+__Helena Casella:__       zang en piano<br>
 
 ## Tomas and Helena Casella
 
@@ -156,7 +156,7 @@ __Helena Casella:__         zang en piano
 ## Jamaican Jazz Orchestra
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-_Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak. 2010-2011_  
+_Upcoming song 'name of song'_  
 __Tomas Casella:__         zang  
 __Kasper Van Ponsele:__    gitaar  
 __Johannes Van Leuven:__   gitaar  
