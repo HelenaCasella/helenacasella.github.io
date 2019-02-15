@@ -154,8 +154,9 @@ __Tomas Casella:__          zang en gitaar
 __Helena Casella:__         zang en piano 
 
 ## Jamaican Jazz Orchestra
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>
+  <img src="https://helenacasella.github.io/Jamaican Jazz.png" alt="Helena Profile">
+</p>
 _Upcoming song 'name of song'_  
 
 __Wouter Rosseel:__         guitarist/composer/bandleader
