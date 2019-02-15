@@ -121,36 +121,37 @@ Motivation is my middle name.
 
 <h1 id="Projecten">Projecten</h1>
 
-## Lucky Green Camel
+## Castro & De Bende
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/6wMO_wQG3hA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-_Funky soul vibes from Ghent! Lucky Green Camel is a young collective of talented musicians with a open mind who like to share there music with the world. Their influences come from jazz, funk, hiphop and reggae._  
-__Tomas Casella:__          zang en gitaar  
-__Arthur de Vriendt:__      drums  
-__Faust de Vogelaere:__     bassgitaar  
-__Silas Siddiki:__          keys  
-__Ischa Demet:__            saxofoon  
+<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=3m6jrRpe8ww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+_Insert text here._  
+__Castro:__               rapper
+__Sandman:__              rapper 
+__Helena Casella:__       zang 
+__Sam Vloemans:__         trompet
+__David Van Belleghem:__  drums
+__Matthias Debusschere:__ basgitaar
+__Pablo Casella:__        gitaar  
+__Luk Vermeir:__          keys  
+__Tom Callens:__          saxofoon  
             
-[Facebook](https://www.facebook.com/Lucky-Green-Camel-149452778986518/)  
-[Youtube](https://www.youtube.com/watch?v=6wMO_wQG3hA&feature=youtu.be)
+[Spotify](https://open.spotify.com/artist/398cBYPazAIhZXHeXPWEif)  
+[Youtube](https://www.youtube.com/channel/UCtOjrx4Gnc43_XAjgUApDfg)
+
+
+## Duo Pablo and Helena Casella
+
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/watch?v=ttaFUb5f7xk"></iframe> 
+_Insert text here_ 
 
 ## Tomas and Helena Casella
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/sybnXxr_gUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _Een prachtige akoestische set boordenvol gearrangeerde covers en eigen nummers. Met de precieze harmonie weten broer en zus het publiek tot op het puntje van hun stoel te krijgen._  
 __Tomas Casella:__          zang en gitaar  
-__Helena Casella:__         zang en piano
+__Helena Casella:__         zang en piano 
 
-
-## Eye Con
-
-<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/282119715&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-__Mixtape of Tomas Casella__  
-_Hip Hop Art Collective from Ghent, Belgium. Conducting Art For The Mind through Peace, Love and Unity. Est. 2014_  
-[Facebook](https://www.facebook.com/officialeyeconductions/)  
-[Soundcloud](https://soundcloud.com/eye_con)
-
-## Smash
+## Jamaican Jazz Orchestra
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _Piepjonge hardrockers met talent. Van Lynerd Skynerd tot Ozzy Osbourne spelen deze 5 lagere schooljongens de pannen van het dak. 2010-2011_  
