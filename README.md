@@ -34,14 +34,17 @@
   </tr>
   <tr>
     <td>
-      <h1 style="font-size: 1.5em; font-weigh: bold">Time Moves Slow Cover - by BadBadNotGood</h1>
-        <em>BADBADNOTGOOD is een grote inspiratiebron voor mijn muziek. Het is subliem hoe de band, met een mix van jazz, hiphop en soul, tot een heel nieuwe en frisse sound komt. In dit nummer slagen ze erin om een  melancholische en herkenbare sfeer te scheppen en mijn gedachten te stimuleren. De troostende stem van Samuel T. Herring maakt de emotie van het lied compleet.</em><br>
+      <h1 style="font-size: 1.5em; font-weigh: bold">Chega de Saudade - Bossa Nova</h1>
+        <em>Music by Antonio Carlos Jobim<br>
+            Lyrics by Vinícius de Moraes</em>
         <strong> Muzikanten:</strong><br>
-        <strong>Tomas Casella:</strong>          zang en gitaar<br>
-        <strong>Arthur de Vriendt:</strong>      drums<br>
-        <strong>Faust de Vogelaere:</strong>     bassgitaar<br>
-        <strong>Silas Siddiki:</strong>          keys<br>
-        <strong>Ischa Demet:</strong>            saxofoon
+        <strong>Helena Casella:</strong>          zang<br>
+        <strong>Thibaut de Ryckere:</strong>      piano<br>
+        <strong>Simon de Rover:</strong>          drum<br>
+        <strong>Ruben Verbeeck:</strong>          contrabass<br>
+        <strong>Productie:</strong><br>
+        <strong> Willem Theerens</strong><br>
+        <strong>Opgenomen in KASK Conservatorium Gent</strong><br>
     </td>
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Eye of the Tiger arrangement</h1>
