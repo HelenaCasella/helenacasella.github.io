@@ -37,7 +37,7 @@
       <h1 style="font-size: 1.5em; font-weigh: bold">Chega de Saudade - Bossa Nova</h1>
         <em>Music by Antonio Carlos Jobim<br>
             Lyrics by Vinícius de Moraes</em><br>
-        <strong> Muzikanten:</strong><br>
+        <strong>Muzikanten:</strong><br>
         <strong>Helena Casella:</strong>          zang<br>
         <strong>Thibaut de Ryckere:</strong>      piano<br>
         <strong>Simon de Rover:</strong>          drum<br>
@@ -49,7 +49,7 @@
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Polka dots and moonbeams - Ballad</h1>
        <em>Music by Jimmy Van Heusen<br>
-            Lyrics by Johnny Burke</em><br>
+           Lyrics by Johnny Burke</em><br>
         <strong> Muzikanten:</strong><br>
         <strong>Helena Casella:</strong>          zang<br>
         <strong>Thibaut de Ryckere:</strong>      piano<br>
@@ -62,7 +62,7 @@
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">I Thought About You - Swing</h1>
       <em>Music by Jimmy Van Heusen<br>
-            Lyrics by Johnny Mercer</em><br>
+          Lyrics by Johnny Mercer</em><br>
         <strong> Muzikanten:</strong><br>
         <strong>Helena Casella:</strong>          zang<br>
         <strong>Thibaut de Ryckere:</strong>      piano<br>
