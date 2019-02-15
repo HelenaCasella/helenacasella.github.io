@@ -86,7 +86,7 @@ Ik ben een 17-jarige studente (18 in april) uit Gent en rond dit jaar mijn midde
 Het is een enorm geschenk om vanaf jongs af aan door je familie gestimuleerd te worden om de muziekwereld binnen te treden. Als half-Braziliaanse ben ik opgegroeid met de schoonheid van gezamelijk musiceren. Een culturele eigenschap die al in mijn kleuterjaren mijn eigen stembanden aanwakkerde, om als zangeres mijzelf en mijn gevoelens te uiten. 
 
 
-Mijn muzikale opleiding ging van start toen ik 7 was en aan de muziekschool begon voor notenleer. Na een jaar theoretische basiskennis kon ik mijn eerste klassieke pianolessen aanvangen. als 10-jarige was ik vooral opzoek naar een muziekgenre die mij op dat moment interesseerde, en dankzij mijn eerste particuliere zanglessen met [Lady Linn] (http://www.ladylinn.be/web/) openden er vele deuren. 
+Mijn muzikale opleiding ging van start toen ik 7 was en aan de muziekschool begon voor notenleer. Na een jaar theoretische basiskennis kon ik mijn eerste klassieke pianolessen aanvangen. als 10-jarige was ik vooral opzoek naar een muziekgenre die mij op dat moment interesseerde, en dankzij mijn eerste particuliere zanglessen met [Lady Linn](http://www.ladylinn.be/web/) openden er vele deuren. 
 
 Niet veel tijd later heb ik me ingeschreven in Popcollege, waar ik samen met mijn oudere broer zangles bij [Liz a Ku](https://www.lizaku.com/) en piano van [Lander de Roo](https://mellvids.be/dirigent/) volgde. Hier begon ik voor het eerst mijn eigen sound te creëren en beleefde ik mijn eerste podium-ervaringen en jamsessies. Ik speelde en zong er voornamelijk Soul/R&B en ontvouwde hiervoor ook een grote liefde. Tot op de dag van vandaag houd ik mij nog steeds gepassioneerd bezig met het uitbreiden van mijn repertoire in dit genre. 
 
