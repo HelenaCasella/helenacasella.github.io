@@ -157,15 +157,11 @@ __Helena Casella:__         zang en piano
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5u9dwX8qpcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _Upcoming song 'name of song'_  
-__Tomas Casella:__         zang  
-__Kasper Van Ponsele:__    gitaar  
-__Johannes Van Leuven:__   gitaar  
-__Maurice Kallebaut:__     drums  
-__Brikke Wevers:__         keys  
-__Thomas Perdaen:__        bass  
 
-[Facebook](https://www.facebook.com/Smash-127144867334818/)  
-[Youtube](http://www.youtube.com/user/Smash666ful)
+__Wouter Rosseel:__         guitarist/composer/bandleader
+
+[Facebook](https://www.facebook.com/jamaicanjazzorchestra)  
+[Youtube](https://www.youtube.com/c/jamaicanjazzorchestra)
 
 <div height="100%">
 <br><br><br>
