@@ -123,17 +123,17 @@ Motivation is my middle name.
 
 ## Castro & De Bende
 
-<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=3m6jrRpe8ww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/3m6jrRpe8ww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _Insert text here._  
-__Castro:__               rapper
-__Sandman:__              rapper 
-__Helena Casella:__       zang 
-__Sam Vloemans:__         trompet
-__David Van Belleghem:__  drums
-__Matthias Debusschere:__ basgitaar
-__Pablo Casella:__        gitaar  
-__Luk Vermeir:__          keys  
-__Tom Callens:__          saxofoon  
+__Castro:__               rapper<br>
+__Sandman:__              rapper<br>
+__Helena Casella:__       zang<br> 
+__Sam Vloemans:__         trompet<br>
+__David Van Belleghem:__  drums<br>
+__Matthias Debusschere:__ basgitaar<br>
+__Pablo Casella:__        gitaar<br>  
+__Luk Vermeir:__          keys<br>  
+__Tom Callens:__          saxofoon<br>  
             
 [Spotify](https://open.spotify.com/artist/398cBYPazAIhZXHeXPWEif)  
 [Youtube](https://www.youtube.com/channel/UCtOjrx4Gnc43_XAjgUApDfg)
@@ -143,6 +143,8 @@ __Tom Callens:__          saxofoon
 
 <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/embed/ttaFUb5f7xk"></iframe> 
 _Insert text here_ 
+__Pablo Casella:__        gitaar en percussie<br>
+__Helena Casella:__       zang en piano<br> 
 
 ## Tomas and Helena Casella
 
