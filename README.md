@@ -36,7 +36,7 @@
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Chega de Saudade - Bossa Nova</h1>
         <em>Music by Antonio Carlos Jobim<br>
-            Lyrics by Vinícius de Moraes</em>
+            Lyrics by Vinícius de Moraes</em><br>
         <strong> Muzikanten:</strong><br>
         <strong>Helena Casella:</strong>          zang<br>
         <strong>Thibaut de Ryckere:</strong>      piano<br>
@@ -47,27 +47,33 @@
         <strong>Opgenomen in KASK Conservatorium Gent</strong><br>
     </td>
     <td>
-      <h1 style="font-size: 1.5em; font-weigh: bold">Eye of the Tiger arrangement</h1>
-      <em>Ik maak graag kleine arrangementen van populaire nummers. Zo creëer ik een compleet andere sfeer. Dit is een perfect voorbeeld daarvan. </em><br>
-      <strong> Muzikanten: </strong><br>
-      <strong> Tomas Casella:</strong>          zang en gitaar<br><br><br><br><br><br><br><br><br>
+      <h1 style="font-size: 1.5em; font-weigh: bold">Polka dots and moonbeams - Ballad</h1>
+       <em>Music by Jimmy Van Heusen<br>
+            Lyrics by Johnny Burke</em><br>
+        <strong> Muzikanten:</strong><br>
+        <strong>Helena Casella:</strong>          zang<br>
+        <strong>Thibaut de Ryckere:</strong>      piano<br>
+        <strong>Simon de Rover:</strong>          drum<br>
+        <strong>Ruben Verbeeck:</strong>          contrabass<br>
+        <strong>Productie:</strong><br>
+        <strong> Willem Theerens</strong><br>
+        <strong>Opgenomen in KASK Conservatorium Gent</strong><br>
     </td> 
     <td>
-      <h1 style="font-size: 1.5em; font-weigh: bold">Beams of light</h1>
-      <em>Dit is een lang nummer (mijn excuses) dat ik zelf geschreven heb. Het is ook het onderwerp van mijn GIP-opdracht. Het beschrijft diverse perspectieven en gevoelens van een vorige relatie. Deze variaties vind je terug in de tekst en vooral in de muzikale passages die elk hun eigen plaats en tijd hebben.</em><br>
-      <strong>Muzikanten:</strong><br>
-      <strong>Tomas Casella:</strong>          zang en gitaar<br>
-      <strong>Arthur de Vriendt:</strong>      drums<br>
-      <strong>Faust de Vogelaere:</strong>     bassgitaar<br>
-      <strong>Silas Siddiki:</strong>          keys
+      <h1 style="font-size: 1.5em; font-weigh: bold">I Thought About You - Swing</h1>
+      <em>Music by Jimmy Van Heusen<br>
+            Lyrics by Johnny Mercer</em><br>
+        <strong> Muzikanten:</strong><br>
+        <strong>Helena Casella:</strong>          zang<br>
+        <strong>Thibaut de Ryckere:</strong>      piano<br>
+        <strong>Simon de Rover:</strong>          drum<br>
+        <strong>Ruben Verbeeck:</strong>          contrabass<br>
+        <strong>Productie:</strong><br>
+        <strong> Willem Theerens</strong><br>
+        <strong>Opgenomen in KASK Conservatorium Gent</strong><br>
      </td>
   </tr>
 </table>
-
-## Beams of light
-<iframe width="300" height="181" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434122416&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-__Recorded at:__ [SAE Oxford institute](http://www.sae.edu/gbr/campuses/oxford)  
-__Mix:__ Benjamin Vanlangenhove aka Sense-A
 
 <div height="100%">
 <br><br><br>
@@ -156,10 +162,12 @@ __Thomas Perdaen:__        bass
 <h1 id="Contact">Contact</h1>
 
 
-__Bookings:__  +32 (0)497313201  
+__Bookings:__  +32 (0)497313557  
 helena.dendooven@gmail.com
           
-[Youtube](https://www.youtube.com/channel/UCE5P7IqSueXwEbTCm_Th7fw?view_as=subscriber)
+[Youtube](https://www.youtube.com/channel/UCLNUMHAdoaJk-qXIEFv0nMA)
+[Soundcloud](https://soundcloud.com/helena-casella-dendooven)
+[Instagram](https://www.instagram.com/helena_casella/)
 
 
 
