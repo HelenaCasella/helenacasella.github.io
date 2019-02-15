@@ -35,8 +35,8 @@
   <tr>
     <td>
       <h1 style="font-size: 1.5em; font-weigh: bold">Chega de Saudade - Bossa Nova</h1>
-        <em>Music by Antonio Carlos Jobim<br>
-            Lyrics by Vinícius de Moraes</em><br>
+       <em>Music by Antonio Carlos Jobim<br>
+           Lyrics by Vinícius de Moraes</em><br>
         <strong>Muzikanten:</strong><br>
         <strong>Helena Casella:</strong>          zang<br>
         <strong>Thibaut de Ryckere:</strong>      piano<br>
