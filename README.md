@@ -149,7 +149,7 @@ __Label:__ R&O Records
 
 ## Duo Pablo and Helena Casella
 
-<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/embed/ttaFUb5f7xk"></iframe>
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/embed/Bn9fGP33hhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 _De Braziliaanse componist-gitarist Pablo Casella, (bekend van o.a. Little Dots en Sarah Ferri) brengt voor de gelegenheid een intieme set, samen met zijn nicht en opkomend talent Helena Casella. Nonkel en nicht spelen al lang samen muziek – eigenlijk zowat op elke familiereünie. Er is altijd wel een gitaar aanwezig en dan kunnen ze wel uren blijven spelen. Het muzikale duo brengt een sfeervolle mix van jazz, soul en Braziliaanse muziek._  
 __Pablo Casella:__        gitaar en percussie<br>
 __Helena Casella:__       zang en piano<br>
