@@ -165,7 +165,7 @@ __Helena Casella:__         zang en piano
 
 ## Jamaican Jazz Orchestra
 <p>
-  <img src="https://helenacasella.github.io/Jamaican Jazz.png" alt="Helena Profile">
+  <img src="https://helenacasella.github.io/JamaicanJazzOrchestra.jpg" alt="Helena Profile">
 </p>
 _Jamaican Jazz Orchestra takes you on a  ride through their musical jungle where you can hear the sounds of reggae and ska mixed with jazz. I’ve recorded a song called ‘Morning Girl’, composed by Wouter Rosseel, Tom Callens, Pablo Casella and myself, which will be released this spring._  
 
