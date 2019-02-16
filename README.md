@@ -177,7 +177,7 @@ __Ruben Lamon:__            bass
 __Xan Albrecht:__           drums   
 
 [Facebook](https://www.facebook.com/jamaicanjazzorchestra)  
-[Youtube](https://www.youtube.com/c/jamaicanjazzorchestra)
+[Youtube](https://www.youtube.com/c/jamaicanjazzorchestra)  
 [Spotify](https://open.spotify.com/artist/6dTFhEI73cHr8aliDYT3BF?si=CKAb8Jr6TNOZMO5xIWGH_Q)
 
 <div height="100%">
