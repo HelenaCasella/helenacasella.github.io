@@ -167,14 +167,14 @@ __Helena Casella:__         zang en piano
 </p>
 _Jamaican Jazz Orchestra takes you on a  ride through their musical jungle where you can hear the sounds of reggae and ska mixed with jazz. I’ve recorded a song called ‘Morning Girl’, composed by Wouter Rosseel, Tom Callens, Pablo Casella and myself, which will be released this spring._  
 
-__Wouter Rosseel:__         guitarist/composer/bandleader 
-__Marie-Anne Standaert:__   trumpet 
-__Tobias Storme:__          trombone 
-__Bruno van der Haegen:__   tenorsax/flute 
-__Ruben Verbruggen:__       baritonsax 
-__Karel Cuelenaere:__       piano 
-__Ruben Lamon:__            bass 
-__Xan Albrecht:__           drums  
+__Wouter Rosseel:__         guitarist/composer/bandleader  
+__Marie-Anne Standaert:__   trumpet  
+__Tobias Storme:__          trombone  
+__Bruno van der Haegen:__   tenorsax/flute  
+__Ruben Verbruggen:__       baritonsax  
+__Karel Cuelenaere:__       piano  
+__Ruben Lamon:__            bass  
+__Xan Albrecht:__           drums   
 
 [Facebook](https://www.facebook.com/jamaicanjazzorchestra)  
 [Youtube](https://www.youtube.com/c/jamaicanjazzorchestra)
