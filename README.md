@@ -106,11 +106,16 @@ Momenteel werk ik aan een project met mijn nonkel, waarin we een mix van jazz, s
 
 <h1 id="Motivatie">Motivatie</h1>
 
-Motivation is my middle name. 
-Motivation is my middle name.
-Motivation is my middle name.
-Motivation is my middle name.
-Motivation is my middle name.
+Het is een uiterst belangrijke beslissing om het persoonlijk beste traject uit te kiezen.  De training om een unieke en professionele jazz-zangeres te worden is eindeloos met zoveel diverse richtingen om uit te gaan, maar uit onderzoek naar de meest relevante conservatoria schoot Codarts zeer overtuigend boven mijn overige opties uit. De descripties online en positieve beoordeling van enkele van jullie studenten trokken mijn volledige aandacht, en na een kijkje te nemen op jullie academie en mee te participeren in proeflessen was ik helemaal gegrepen.
+
+Ik heb gekozen voor een hogere opleiding jazz-zang om mijzelf zo goed en uitgebreid mogelijk te kunnen voorbereiden op een carrière als professionele artiest. Voor mij is zang gegroeid als een deel van mijn persona waarmee ik op een natuurlijke wijze mijn gevoelens kan verwoorden. Ik zou mij nergens zo comfortabel en op mijn gemak kunnen voelen als tijdens het zingen. In het algemeen is muziek mijn roeping en mijn favoriete bezigheid is om de verschillende lagen ervan te bestuderen en steeds nieuwe inhoud te ondervinden.
+
+Ik geloof absoluut dat Codarts de meest geschikte school is om mij te begeleiden en versterken op de route die ik heb uitgestippeld om mijn doel te bereiken. Het rechtstreekse contact met dergelijke professionele muzikanten is een geweldige ervaring en de perfecte stimulatie. Daarnaast is het een groot voordeel om te kunnen studeren in dé jazz-stad van Nederland. De creatieve omgeving en mogelijkheid om dagelijks podiumervaring te kunnen oplopen spreekt mij enorm aan, en met multiculturele studenten van jullie school is er geen betere manier om dit te beleven. Aangezien ik door mijn origine zeer cultureel ben ingesteld op muzikaal vlak, tref ik de diverse mogelijkheden tot cross-overs van Codarts ontzettend interessant.
+
+Het vraagt veel meer dan talent om een goede artiest te worden. Hard werk, maar tegelijkertijd ook een grote appreciatie en liefde voor de studies is volgens mij het meest cruciaal om succesvol te worden. Door sterke inzet ben ik ook een echte doorzetter. Ik probeer de lat hoog te leggen door steeds nieuwe uitdagingen aan te gaan. Met hoge ambitie ben ik bereid om al mijn kracht in te zetten om mijn missies te volbrengen, en geloof dat ik over de benodigde energie en discipline beschik om jullie programma te volgen.
+Alvast hartelijk bedankt voor de beoordeling van mijn portfolio.
+
+ Ik hoop dat ik mijn optimistische ingesteldheid mag delen en mijn muzikaliteit verder mag ontwikkelen in de richting jazz-zang van Codarts! 
 
 
 <div height="100%">
@@ -132,6 +137,13 @@ __Matthias Debusschere:__ basgitaar<br>
 __Pablo Casella:__        gitaar<br>
 __Luk Vermeir:__          keys<br>
 __Tom Callens:__          saxofoon<br>
+__Productie:__ Tom Callens
+__Coproductie:__ Castro
+__Mix:__ Fre Seegers
+__Mastering:__ Uwe Teichert (Elektropolis)
+__Clip:__ GIGA Productions
+__Locatie:__ [Janines] (http://www.janines.be/)
+__Label:__ R&O Records
             
 [Spotify](https://open.spotify.com/artist/398cBYPazAIhZXHeXPWEif)  
 [Youtube](https://www.youtube.com/channel/UCtOjrx4Gnc43_XAjgUApDfg)
@@ -140,7 +152,7 @@ __Tom Callens:__          saxofoon<br>
 ## Duo Pablo and Helena Casella
 
 <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/embed/ttaFUb5f7xk"></iframe>
-_Insert text here._ 
+_De Braziliaanse componist-gitarist Pablo Casella, (bekend van o.a. Little Dots en Sarah Ferri) brengt voor de gelegenheid een intieme set, samen met zijn nicht en opkomend talent Helena Casella. Nonkel en nicht spelen al lang samen muziek – eigenlijk zowat op elke familiereünie. Er is altijd wel een gitaar aanwezig en dan kunnen ze wel uren blijven spelen. Het muzikale duo brengt een sfeervolle mix van jazz, soul en Braziliaanse muziek._ 
 __Pablo Casella:__        gitaar en percussie<br>
 __Helena Casella:__       zang en piano<br>
 
@@ -155,12 +167,20 @@ __Helena Casella:__         zang en piano
 <p>
   <img src="https://helenacasella.github.io/Jamaican Jazz.png" alt="Helena Profile">
 </p>
-_Upcoming song 'name of song'_  
+_Jamaican Jazz Orchestra takes you on a  ride through their musical jungle where you can hear the sounds of reggae and ska mixed with jazz. I’ve recorded a song called ‘Morning Girl’, composed by Wouter Rosseel, Tom Callens, Pablo Casella and myself, which will be released this spring._  
 
 __Wouter Rosseel:__         guitarist/composer/bandleader
+__Marie-Anne Standaert:__   trumpet
+__Tobias Storme:__          trombone
+__Bruno van der Haegen:__   tenorsax/flute
+__Ruben Verbruggen:__       baritonsax
+__Karel Cuelenaere:__       piano
+__Ruben Lamon:__            bass
+__Xan Albrecht:__           drums 
 
 [Facebook](https://www.facebook.com/jamaicanjazzorchestra)  
 [Youtube](https://www.youtube.com/c/jamaicanjazzorchestra)
+[Spotify](https://open.spotify.com/artist/6dTFhEI73cHr8aliDYT3BF?si=CKAb8Jr6TNOZMO5xIWGH_Q)
 
 <div height="100%">
 <br><br><br>
