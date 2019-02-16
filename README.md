@@ -1,5 +1,3 @@
-<!-- ![](https://helenacasella.github.io/HeleWithBand.jpg
-      ) -->
 
 <p class="menu">
   <span style="float:left;">
@@ -127,7 +125,7 @@ Alvast hartelijk bedankt voor de beoordeling van mijn portfolio.
 ## Castro & De Bende
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/3m6jrRpe8ww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-_Insert text here._  
+_Dikke, funky zomersound met een pikante hiphopsaus!_  
 __Castro:__               rapper<br>
 __Sandman:__              rapper<br>
 __Helena Casella:__       zang<br> 
@@ -152,7 +150,7 @@ __Label:__ R&O Records
 ## Duo Pablo and Helena Casella
 
 <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/embed/ttaFUb5f7xk"></iframe>
-_De Braziliaanse componist-gitarist Pablo Casella, (bekend van o.a. Little Dots en Sarah Ferri) brengt voor de gelegenheid een intieme set, samen met zijn nicht en opkomend talent Helena Casella. Nonkel en nicht spelen al lang samen muziek – eigenlijk zowat op elke familiereünie. Er is altijd wel een gitaar aanwezig en dan kunnen ze wel uren blijven spelen. Het muzikale duo brengt een sfeervolle mix van jazz, soul en Braziliaanse muziek._ 
+_De Braziliaanse componist-gitarist Pablo Casella, (bekend van o.a. Little Dots en Sarah Ferri) brengt voor de gelegenheid een intieme set, samen met zijn nicht en opkomend talent Helena Casella. Nonkel en nicht spelen al lang samen muziek – eigenlijk zowat op elke familiereünie. Er is altijd wel een gitaar aanwezig en dan kunnen ze wel uren blijven spelen. Het muzikale duo brengt een sfeervolle mix van jazz, soul en Braziliaanse muziek._  
 __Pablo Casella:__        gitaar en percussie<br>
 __Helena Casella:__       zang en piano<br>
 
@@ -169,14 +167,14 @@ __Helena Casella:__         zang en piano
 </p>
 _Jamaican Jazz Orchestra takes you on a  ride through their musical jungle where you can hear the sounds of reggae and ska mixed with jazz. I’ve recorded a song called ‘Morning Girl’, composed by Wouter Rosseel, Tom Callens, Pablo Casella and myself, which will be released this spring._  
 
-__Wouter Rosseel:__         guitarist/composer/bandleader
-__Marie-Anne Standaert:__   trumpet
-__Tobias Storme:__          trombone
-__Bruno van der Haegen:__   tenorsax/flute
-__Ruben Verbruggen:__       baritonsax
-__Karel Cuelenaere:__       piano
-__Ruben Lamon:__            bass
-__Xan Albrecht:__           drums 
+__Wouter Rosseel:__         guitarist/composer/bandleader 
+__Marie-Anne Standaert:__   trumpet 
+__Tobias Storme:__          trombone 
+__Bruno van der Haegen:__   tenorsax/flute 
+__Ruben Verbruggen:__       baritonsax 
+__Karel Cuelenaere:__       piano 
+__Ruben Lamon:__            bass 
+__Xan Albrecht:__           drums  
 
 [Facebook](https://www.facebook.com/jamaicanjazzorchestra)  
 [Youtube](https://www.youtube.com/c/jamaicanjazzorchestra)
