@@ -143,7 +143,7 @@ __Coproductie:__ Castro
 __Mix:__ Fre Seegers
 __Mastering:__ Uwe Teichert (Elektropolis)
 __Clip:__ GIGA Productions
-__Locatie:__ [Janines] (http://www.janines.be/)
+__Locatie:__ [Janines](http://www.janines.be/)
 __Label:__ R&O Records
             
 [Spotify](https://open.spotify.com/artist/398cBYPazAIhZXHeXPWEif)  
